@@ -1,0 +1,877 @@
+,index,Month,Feel,Real,Humidity,Rain,Cloud,Air_quality,City
+0,0,jan,freezing,freezing,damp,rainy,cloudy,clean,kenosha
+1,1,feb,freezing,freezing,damp,rainy,cloudy,clean,kenosha
+2,2,mar,cold,very cold,damp,dry,pockets,clean,kenosha
+3,3,apr,cold,cold,damp,dry,cloudy,clean,kenosha
+4,4,may,cool,cool,damp,rainy,cloudy,clean,kenosha
+5,5,jun,mild,mild,nice,rainy,cloudy,clean,kenosha
+6,6,jul,warm,warm,nice,rainy,pockets,clean,kenosha
+7,7,aug,warm,warm,nice,rainy,pockets,clean,kenosha
+8,8,sep,mild,mild,nice,dry,pockets,clean,kenosha
+9,9,oct,cool,cool,nice,rainy,cloudy,clean,kenosha
+10,10,nov,cold,cold,nice,dry,pockets,clean,kenosha
+11,11,dec,cold,very cold,damp,rainy,cloudy,clean,kenosha
+12,0,jan,cold,very cold,nice,dry,pockets,bad,kabul
+13,1,feb,cool,cool,nice,dry,pockets,bad,kabul
+14,2,mar,cool,cool,nice,rainy,cloudy,bad,kabul
+15,3,apr,mild,mild,nice,dry,pockets,bad,kabul
+16,4,may,mild,mild,nice,rainy,pockets,bad,kabul
+17,5,jun,warm,very warm,too dry,dry,clear,bad,kabul
+18,6,jul,hot,hot,too dry,dry,pockets,bad,kabul
+19,7,aug,warm,very warm,too dry,dry,pockets,bad,kabul
+20,8,sep,warm,warm,nice,dry,clear,bad,kabul
+21,9,oct,mild,mild,too dry,dry,clear,bad,kabul
+22,10,nov,cool,cool,too dry,dry,pockets,bad,kabul
+23,11,dec,cold,cold,nice,dry,pockets,bad,kabul
+24,0,jan,cold,very cold,nice,dry,pockets,bad,zibo
+25,1,feb,cold,cold,nice,dry,pockets,bad,zibo
+26,2,mar,cool,cool,nice,dry,pockets,bad,zibo
+27,3,apr,mild,mild,nice,rainy,cloudy,bad,zibo
+28,4,may,warm,warm,nice,dry,pockets,bad,zibo
+29,5,jun,hot,hot,nice,rainy,cloudy,bad,zibo
+30,6,jul,hot,hot,nice,rainy,cloudy,bad,zibo
+31,7,aug,hot,very warm,sweaty,rainy,cloudy,bad,zibo
+32,8,sep,warm,warm,nice,rainy,cloudy,bad,zibo
+33,9,oct,mild,cool,nice,dry,cloudy,bad,zibo
+34,10,nov,cool,cool,nice,dry,pockets,bad,zibo
+35,11,dec,cold,cold,nice,dry,pockets,bad,zibo
+36,0,jan,hot,very warm,sweaty,dry,pockets,avoid sun,managua
+37,1,feb,hot,hot,nice,dry,pockets,avoid sun,managua
+38,2,mar,hot,hot,nice,dry,pockets,avoid sun,managua
+39,3,apr,scorching,hot,nice,rainy,pockets,avoid sun,managua
+40,4,may,scorching,hot,nice,rainy,pockets,avoid sun,managua
+41,5,jun,scorching,hot,sweaty,rainy,cloudy,avoid sun,managua
+42,6,jul,scorching,hot,sweaty,rainy,cloudy,avoid sun,managua
+43,7,aug,scorching,hot,sweaty,rainy,cloudy,avoid sun,managua
+44,8,sep,hot,very warm,sweaty,rainy,cloudy,avoid sun,managua
+45,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,managua
+46,10,nov,hot,very warm,sweaty,rainy,cloudy,avoid sun,managua
+47,11,dec,hot,very warm,sweaty,dry,pockets,avoid sun,managua
+48,0,jan,hot,hot,nice,dry,pockets,avoid sun,leon
+49,1,feb,hot,hot,nice,dry,pockets,avoid sun,leon
+50,2,mar,hot,hot,nice,dry,pockets,avoid sun,leon
+51,3,apr,hot,hot,nice,rainy,pockets,avoid sun,leon
+52,4,may,hot,hot,nice,rainy,pockets,avoid sun,leon
+53,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,leon
+54,6,jul,hot,hot,sweaty,rainy,cloudy,avoid sun,leon
+55,7,aug,hot,very warm,sweaty,rainy,cloudy,avoid sun,leon
+56,8,sep,hot,very warm,sweaty,rainy,cloudy,avoid sun,leon
+57,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,leon
+58,10,nov,hot,very warm,sweaty,rainy,pockets,avoid sun,leon
+59,11,dec,hot,hot,nice,dry,pockets,avoid sun,leon
+60,0,jan,cold,very cold,nice,dry,pockets,bad,handan
+61,1,feb,cool,cool,nice,dry,pockets,bad,handan
+62,2,mar,cool,cool,nice,dry,cloudy,bad,handan
+63,3,apr,mild,mild,nice,dry,cloudy,bad,handan
+64,4,may,warm,very warm,nice,dry,cloudy,bad,handan
+65,5,jun,hot,hot,nice,dry,cloudy,bad,handan
+66,6,jul,hot,very warm,sweaty,rainy,cloudy,bad,handan
+67,7,aug,hot,very warm,sweaty,rainy,cloudy,bad,handan
+68,8,sep,warm,warm,nice,rainy,cloudy,bad,handan
+69,9,oct,cool,cool,nice,rainy,cloudy,bad,handan
+70,10,nov,cool,cool,nice,dry,pockets,bad,handan
+71,11,dec,cold,cold,nice,dry,pockets,bad,handan
+72,0,jan,cold,very cold,damp,rainy,cloudy,avoid sun,king-edward-point
+73,1,feb,cold,very cold,damp,rainy,cloudy,seek shade,king-edward-point
+74,2,mar,cold,very cold,damp,rainy,cloudy,seek shade,king-edward-point
+75,3,apr,cold,very cold,damp,rainy,cloudy,safe,king-edward-point
+76,4,may,freezing,very cold,damp,rainy,cloudy,safe,king-edward-point
+77,5,jun,freezing,freezing,damp,rainy,cloudy,safe,king-edward-point
+78,6,jul,freezing,freezing,damp,rainy,cloudy,safe,king-edward-point
+79,7,aug,freezing,freezing,damp,rainy,cloudy,safe,king-edward-point
+80,8,sep,freezing,very cold,damp,rainy,cloudy,safe,king-edward-point
+81,9,oct,cold,very cold,damp,rainy,cloudy,seek shade,king-edward-point
+82,10,nov,cold,very cold,damp,rainy,cloudy,avoid sun,king-edward-point
+83,11,dec,cold,very cold,damp,rainy,cloudy,avoid sun,king-edward-point
+84,0,jan,cool,cool,nice,dry,pockets,bad,islamabad
+85,1,feb,mild,mild,nice,dry,pockets,bad,islamabad
+86,2,mar,warm,warm,nice,rainy,pockets,bad,islamabad
+87,3,apr,warm,warm,nice,rainy,pockets,bad,islamabad
+88,4,may,hot,hot,nice,dry,pockets,okay,islamabad
+89,5,jun,hot,hot,nice,rainy,pockets,okay,islamabad
+90,6,jul,scorching,hot,nice,rainy,pockets,okay,islamabad
+91,7,aug,hot,hot,nice,rainy,pockets,okay,islamabad
+92,8,sep,hot,hot,nice,rainy,pockets,bad,islamabad
+93,9,oct,warm,warm,nice,rainy,clear,bad,islamabad
+94,10,nov,mild,mild,nice,dry,clear,bad,islamabad
+95,11,dec,mild,cool,nice,dry,pockets,bad,islamabad
+96,0,jan,hot,very warm,sweaty,rainy,pockets,avoid sun,santa-teresa
+97,1,feb,hot,very warm,sweaty,dry,pockets,avoid sun,santa-teresa
+98,2,mar,hot,very warm,sweaty,dry,pockets,avoid sun,santa-teresa
+99,3,apr,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+100,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+101,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+102,6,jul,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+103,7,aug,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+104,8,sep,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+105,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+106,10,nov,hot,very warm,sweaty,rainy,cloudy,avoid sun,santa-teresa
+107,11,dec,hot,very warm,sweaty,rainy,pockets,avoid sun,santa-teresa
+108,0,jan,cold,very cold,nice,dry,clear,okay,ashgabat
+109,1,feb,cold,cold,nice,dry,pockets,okay,ashgabat
+110,2,mar,cold,cold,nice,rainy,cloudy,okay,ashgabat
+111,3,apr,mild,mild,nice,dry,pockets,okay,ashgabat
+112,4,may,mild,mild,too dry,dry,pockets,okay,ashgabat
+113,5,jun,warm,very warm,too dry,dry,clear,okay,ashgabat
+114,6,jul,warm,very warm,too dry,dry,pockets,okay,ashgabat
+115,7,aug,warm,warm,too dry,dry,clear,okay,ashgabat
+116,8,sep,mild,mild,too dry,dry,clear,okay,ashgabat
+117,9,oct,cool,cool,nice,dry,pockets,okay,ashgabat
+118,10,nov,cold,cold,nice,dry,pockets,okay,ashgabat
+119,11,dec,cold,cold,nice,dry,pockets,okay,ashgabat
+120,0,jan,hot,very warm,sweaty,dry,pockets,avoid sun,tamarindo
+121,1,feb,hot,very warm,nice,dry,pockets,avoid sun,tamarindo
+122,2,mar,hot,hot,nice,dry,pockets,avoid sun,tamarindo
+123,3,apr,hot,very warm,sweaty,rainy,cloudy,avoid sun,tamarindo
+124,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,tamarindo
+125,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,tamarindo
+126,6,jul,hot,very warm,sweaty,rainy,cloudy,avoid sun,tamarindo
+127,7,aug,hot,very warm,sweaty,rainy,cloudy,avoid sun,tamarindo
+128,8,sep,hot,very warm,sweaty,rainy,cloudy,avoid sun,tamarindo
+129,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,tamarindo
+130,10,nov,hot,very warm,sweaty,rainy,pockets,avoid sun,tamarindo
+131,11,dec,hot,very warm,sweaty,dry,pockets,avoid sun,tamarindo
+132,0,jan,cool,cool,nice,dry,pockets,seek shade,faisalabad
+133,1,feb,warm,warm,nice,dry,pockets,seek shade,faisalabad
+134,2,mar,warm,very warm,nice,dry,pockets,avoid sun,faisalabad
+135,3,apr,warm,hot,too dry,dry,pockets,avoid sun,faisalabad
+136,4,may,hot,hot,nice,dry,pockets,avoid sun,faisalabad
+137,5,jun,scorching,hot,nice,dry,pockets,avoid sun,faisalabad
+138,6,jul,scorching,hot,nice,rainy,pockets,avoid sun,faisalabad
+139,7,aug,scorching,hot,nice,dry,pockets,avoid sun,faisalabad
+140,8,sep,scorching,hot,nice,rainy,pockets,avoid sun,faisalabad
+141,9,oct,hot,hot,nice,dry,clear,avoid sun,faisalabad
+142,10,nov,warm,warm,nice,dry,clear,seek shade,faisalabad
+143,11,dec,mild,mild,nice,dry,pockets,seek shade,faisalabad
+144,0,jan,mild,mild,nice,dry,pockets,seek shade,multan
+145,1,feb,warm,warm,nice,dry,clear,avoid sun,multan
+146,2,mar,warm,very warm,nice,dry,clear,avoid sun,multan
+147,3,apr,hot,hot,too dry,dry,pockets,avoid sun,multan
+148,4,may,hot,hot,nice,dry,pockets,avoid sun,multan
+149,5,jun,scorching,hot,nice,rainy,pockets,avoid sun,multan
+150,6,jul,scorching,hot,nice,rainy,pockets,avoid sun,multan
+151,7,aug,scorching,hot,nice,dry,pockets,avoid sun,multan
+152,8,sep,scorching,hot,nice,dry,pockets,avoid sun,multan
+153,9,oct,hot,hot,nice,dry,clear,avoid sun,multan
+154,10,nov,warm,warm,nice,dry,clear,seek shade,multan
+155,11,dec,mild,mild,nice,dry,pockets,seek shade,multan
+156,0,jan,cool,cool,nice,dry,cloudy,seek shade,benghazi
+157,1,feb,cool,cool,damp,dry,pockets,seek shade,benghazi
+158,2,mar,cool,cool,nice,dry,pockets,avoid sun,benghazi
+159,3,apr,mild,mild,nice,dry,pockets,avoid sun,benghazi
+160,4,may,warm,warm,nice,dry,pockets,avoid sun,benghazi
+161,5,jun,warm,warm,nice,dry,clear,avoid sun,benghazi
+162,6,jul,hot,very warm,sweaty,dry,pockets,avoid sun,benghazi
+163,7,aug,hot,hot,sweaty,dry,clear,avoid sun,benghazi
+164,8,sep,hot,very warm,nice,dry,pockets,avoid sun,benghazi
+165,9,oct,warm,warm,nice,dry,pockets,seek shade,benghazi
+166,10,nov,warm,warm,nice,dry,cloudy,seek shade,benghazi
+167,11,dec,cool,cool,nice,rainy,cloudy,seek shade,benghazi
+168,0,jan,mild,mild,nice,rainy,cloudy,avoid sun,tegucigalpa
+169,1,feb,mild,mild,nice,rainy,pockets,avoid sun,tegucigalpa
+170,2,mar,warm,warm,nice,rainy,pockets,avoid sun,tegucigalpa
+171,3,apr,warm,warm,nice,rainy,cloudy,avoid sun,tegucigalpa
+172,4,may,warm,warm,nice,rainy,cloudy,avoid sun,tegucigalpa
+173,5,jun,warm,warm,nice,rainy,cloudy,avoid sun,tegucigalpa
+174,6,jul,warm,warm,nice,rainy,cloudy,avoid sun,tegucigalpa
+175,7,aug,warm,warm,nice,rainy,cloudy,avoid sun,tegucigalpa
+176,8,sep,warm,warm,nice,rainy,cloudy,avoid sun,tegucigalpa
+177,9,oct,warm,warm,nice,rainy,cloudy,avoid sun,tegucigalpa
+178,10,nov,mild,mild,nice,rainy,cloudy,avoid sun,tegucigalpa
+179,11,dec,mild,mild,nice,rainy,pockets,avoid sun,tegucigalpa
+180,0,jan,cool,cool,nice,dry,pockets,seek shade,gujranwala
+181,1,feb,mild,mild,nice,dry,pockets,seek shade,gujranwala
+182,2,mar,warm,very warm,nice,rainy,pockets,avoid sun,gujranwala
+183,3,apr,warm,hot,too dry,dry,pockets,avoid sun,gujranwala
+184,4,may,hot,hot,nice,dry,pockets,avoid sun,gujranwala
+185,5,jun,scorching,hot,nice,dry,pockets,avoid sun,gujranwala
+186,6,jul,scorching,hot,nice,rainy,cloudy,avoid sun,gujranwala
+187,7,aug,scorching,hot,nice,rainy,pockets,avoid sun,gujranwala
+188,8,sep,scorching,hot,sweaty,rainy,pockets,avoid sun,gujranwala
+189,9,oct,hot,very warm,nice,rainy,clear,avoid sun,gujranwala
+190,10,nov,warm,warm,nice,dry,clear,seek shade,gujranwala
+191,11,dec,mild,mild,nice,dry,pockets,seek shade,gujranwala
+192,0,jan,warm,warm,sweaty,dry,cloudy,avoid sun,ko-tao
+193,1,feb,hot,very warm,sweaty,dry,pockets,avoid sun,ko-tao
+194,2,mar,hot,very warm,sweaty,dry,pockets,avoid sun,ko-tao
+195,3,apr,hot,very warm,sweaty,rainy,cloudy,avoid sun,ko-tao
+196,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,ko-tao
+197,5,jun,hot,very warm,sweaty,rainy,overcast,avoid sun,ko-tao
+198,6,jul,hot,very warm,sweaty,rainy,overcast,avoid sun,ko-tao
+199,7,aug,hot,very warm,sweaty,rainy,overcast,avoid sun,ko-tao
+200,8,sep,hot,very warm,sweaty,rainy,overcast,avoid sun,ko-tao
+201,9,oct,hot,very warm,sweaty,rainy,overcast,avoid sun,ko-tao
+202,10,nov,hot,very warm,sweaty,rainy,overcast,avoid sun,ko-tao
+203,11,dec,hot,very warm,sweaty,rainy,cloudy,avoid sun,ko-tao
+204,0,jan,freezing,very cold,damp,dry,cloudy,clean,bellevue
+205,1,feb,freezing,freezing,damp,dry,cloudy,clean,bellevue
+206,2,mar,cold,cool,nice,rainy,pockets,clean,bellevue
+207,3,apr,cool,cool,nice,dry,pockets,clean,bellevue
+208,4,may,mild,mild,nice,rainy,cloudy,clean,bellevue
+209,5,jun,hot,very warm,nice,rainy,pockets,okay,bellevue
+210,6,jul,hot,very warm,sweaty,rainy,pockets,okay,bellevue
+211,7,aug,hot,very warm,sweaty,rainy,pockets,clean,bellevue
+212,8,sep,warm,warm,nice,rainy,pockets,clean,bellevue
+213,9,oct,mild,mild,nice,rainy,pockets,okay,bellevue
+214,10,nov,cold,cold,nice,dry,pockets,okay,bellevue
+215,11,dec,cold,cold,nice,dry,pockets,okay,bellevue
+216,0,jan,cold,cold,damp,rainy,cloudy,okay,vatican-city
+217,1,feb,cool,cool,damp,rainy,pockets,okay,vatican-city
+218,2,mar,cool,cool,damp,rainy,pockets,okay,vatican-city
+219,3,apr,cool,cool,damp,rainy,cloudy,okay,vatican-city
+220,4,may,mild,mild,nice,dry,cloudy,clean,vatican-city
+221,5,jun,warm,warm,nice,dry,pockets,okay,vatican-city
+222,6,jul,hot,very warm,nice,dry,pockets,clean,vatican-city
+223,7,aug,hot,very warm,nice,dry,pockets,clean,vatican-city
+224,8,sep,warm,warm,nice,dry,pockets,clean,vatican-city
+225,9,oct,mild,mild,nice,rainy,cloudy,okay,vatican-city
+226,10,nov,cool,cool,damp,rainy,cloudy,clean,vatican-city
+227,11,dec,cool,cool,damp,rainy,cloudy,okay,vatican-city
+228,0,jan,mild,mild,nice,dry,pockets,okay,basra
+229,1,feb,mild,mild,nice,dry,pockets,okay,basra
+230,2,mar,warm,warm,too dry,dry,pockets,okay,basra
+231,3,apr,hot,hot,too dry,dry,pockets,okay,basra
+232,4,may,hot,scorching,too dry,dry,clear,okay,basra
+233,5,jun,scorching,scorching,too dry,dry,clear,okay,basra
+234,6,jul,scorching,scorching,too dry,dry,clear,okay,basra
+235,7,aug,scorching,scorching,too dry,dry,clear,okay,basra
+236,8,sep,hot,hot,too dry,dry,clear,okay,basra
+237,9,oct,hot,hot,too dry,dry,clear,okay,basra
+238,10,nov,warm,warm,nice,dry,pockets,okay,basra
+239,11,dec,mild,mild,nice,dry,cloudy,okay,basra
+240,0,jan,freezing,very cold,nice,dry,cloudy,bad,yantai
+241,1,feb,cold,cold,nice,dry,pockets,bad,yantai
+242,2,mar,cold,cool,nice,dry,pockets,bad,yantai
+243,3,apr,cool,cool,nice,rainy,cloudy,bad,yantai
+244,4,may,mild,mild,nice,dry,pockets,bad,yantai
+245,5,jun,warm,warm,nice,rainy,cloudy,okay,yantai
+246,6,jul,hot,very warm,sweaty,rainy,cloudy,bad,yantai
+247,7,aug,hot,very warm,sweaty,rainy,cloudy,okay,yantai
+248,8,sep,warm,warm,nice,rainy,cloudy,okay,yantai
+249,9,oct,mild,mild,nice,rainy,cloudy,okay,yantai
+250,10,nov,cool,cool,nice,dry,cloudy,bad,yantai
+251,11,dec,cold,cold,nice,dry,pockets,bad,yantai
+252,0,jan,cool,cool,nice,rainy,pockets,seek shade,sialkot
+253,1,feb,mild,mild,nice,dry,pockets,safe,sialkot
+254,2,mar,warm,warm,nice,rainy,pockets,avoid sun,sialkot
+255,3,apr,hot,hot,nice,dry,cloudy,seek shade,sialkot
+256,4,may,scorching,hot,nice,dry,pockets,avoid sun,sialkot
+257,5,jun,scorching,hot,nice,dry,pockets,seek shade,sialkot
+258,6,jul,scorching,hot,nice,rainy,cloudy,avoid sun,sialkot
+259,7,aug,scorching,hot,sweaty,rainy,pockets,avoid sun,sialkot
+260,8,sep,scorching,hot,sweaty,rainy,pockets,seek shade,sialkot
+261,9,oct,hot,hot,nice,rainy,clear,avoid sun,sialkot
+262,10,nov,warm,warm,nice,dry,clear,safe,sialkot
+263,11,dec,mild,mild,nice,dry,pockets,seek shade,sialkot
+264,0,jan,hot,very warm,sweaty,rainy,cloudy,clean,cayenne
+265,1,feb,hot,very warm,sweaty,rainy,cloudy,clean,cayenne
+266,2,mar,hot,very warm,sweaty,rainy,cloudy,clean,cayenne
+267,3,apr,hot,very warm,sweaty,rainy,overcast,okay,cayenne
+268,4,may,hot,very warm,sweaty,rainy,overcast,clean,cayenne
+269,5,jun,hot,very warm,sweaty,rainy,cloudy,clean,cayenne
+270,6,jul,hot,very warm,sweaty,rainy,cloudy,clean,cayenne
+271,7,aug,hot,hot,sweaty,rainy,cloudy,clean,cayenne
+272,8,sep,scorching,hot,sweaty,rainy,cloudy,clean,cayenne
+273,9,oct,scorching,hot,sweaty,rainy,cloudy,clean,cayenne
+274,10,nov,hot,hot,sweaty,rainy,cloudy,clean,cayenne
+275,11,dec,hot,very warm,sweaty,rainy,overcast,clean,cayenne
+276,0,jan,hot,warm,sweaty,dry,pockets,avoid sun,martinique
+277,1,feb,warm,warm,sweaty,rainy,pockets,avoid sun,martinique
+278,2,mar,hot,warm,sweaty,rainy,pockets,avoid sun,martinique
+279,3,apr,hot,very warm,sweaty,rainy,cloudy,avoid sun,martinique
+280,4,may,hot,very warm,sweaty,dry,cloudy,avoid sun,martinique
+281,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,martinique
+282,6,jul,hot,very warm,sweaty,rainy,pockets,avoid sun,martinique
+283,7,aug,hot,very warm,sweaty,rainy,pockets,avoid sun,martinique
+284,8,sep,hot,very warm,sweaty,rainy,pockets,avoid sun,martinique
+285,9,oct,hot,very warm,sweaty,rainy,pockets,avoid sun,martinique
+286,10,nov,hot,very warm,sweaty,rainy,pockets,avoid sun,martinique
+287,11,dec,hot,very warm,sweaty,rainy,pockets,avoid sun,martinique
+288,0,jan,warm,warm,nice,rainy,cloudy,avoid sun,san-pedro-sula
+289,1,feb,hot,very warm,sweaty,rainy,pockets,avoid sun,san-pedro-sula
+290,2,mar,hot,very warm,sweaty,rainy,pockets,avoid sun,san-pedro-sula
+291,3,apr,hot,hot,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+292,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+293,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+294,6,jul,hot,very warm,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+295,7,aug,scorching,hot,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+296,8,sep,scorching,hot,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+297,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+298,10,nov,hot,warm,sweaty,rainy,cloudy,avoid sun,san-pedro-sula
+299,11,dec,hot,warm,sweaty,rainy,pockets,avoid sun,san-pedro-sula
+300,0,jan,hot,very warm,sweaty,rainy,cloudy,avoid sun,kralendijk
+301,1,feb,hot,very warm,sweaty,dry,pockets,avoid sun,kralendijk
+302,2,mar,hot,very warm,sweaty,rainy,pockets,avoid sun,kralendijk
+303,3,apr,hot,very warm,sweaty,dry,cloudy,avoid sun,kralendijk
+304,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,kralendijk
+305,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,kralendijk
+306,6,jul,hot,very warm,sweaty,rainy,pockets,avoid sun,kralendijk
+307,7,aug,hot,very warm,sweaty,rainy,pockets,avoid sun,kralendijk
+308,8,sep,scorching,hot,sweaty,rainy,pockets,avoid sun,kralendijk
+309,9,oct,hot,hot,sweaty,rainy,cloudy,avoid sun,kralendijk
+310,10,nov,hot,very warm,sweaty,rainy,cloudy,avoid sun,kralendijk
+311,11,dec,hot,very warm,sweaty,rainy,cloudy,avoid sun,kralendijk
+312,0,jan,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+313,1,feb,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+314,2,mar,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+315,3,apr,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+316,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+317,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+318,6,jul,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+319,7,aug,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+320,8,sep,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+321,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+322,10,nov,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+323,11,dec,hot,very warm,sweaty,rainy,cloudy,avoid sun,port-moresby
+324,0,jan,mild,mild,nice,rainy,cloudy,avoid sun,copan
+325,1,feb,warm,warm,nice,rainy,cloudy,avoid sun,copan
+326,2,mar,warm,warm,nice,rainy,cloudy,avoid sun,copan
+327,3,apr,hot,warm,sweaty,rainy,cloudy,avoid sun,copan
+328,4,may,warm,warm,nice,rainy,cloudy,avoid sun,copan
+329,5,jun,warm,warm,nice,rainy,cloudy,avoid sun,copan
+330,6,jul,warm,warm,nice,rainy,cloudy,avoid sun,copan
+331,7,aug,warm,warm,nice,rainy,cloudy,avoid sun,copan
+332,8,sep,warm,warm,nice,rainy,cloudy,avoid sun,copan
+333,9,oct,warm,warm,nice,rainy,cloudy,avoid sun,copan
+334,10,nov,mild,mild,nice,rainy,cloudy,avoid sun,copan
+335,11,dec,mild,mild,nice,rainy,cloudy,avoid sun,copan
+336,0,jan,cool,cool,damp,rainy,cloudy,clean,ajaccio
+337,1,feb,cool,cool,damp,rainy,cloudy,okay,ajaccio
+338,2,mar,cool,cool,nice,dry,pockets,okay,ajaccio
+339,3,apr,cool,cool,damp,rainy,cloudy,clean,ajaccio
+340,4,may,cool,cool,nice,rainy,cloudy,clean,ajaccio
+341,5,jun,warm,warm,nice,dry,pockets,clean,ajaccio
+342,6,jul,warm,warm,nice,dry,pockets,clean,ajaccio
+343,7,aug,warm,warm,nice,dry,pockets,clean,ajaccio
+344,8,sep,warm,warm,nice,dry,cloudy,clean,ajaccio
+345,9,oct,mild,mild,nice,rainy,pockets,clean,ajaccio
+346,10,nov,mild,cool,nice,rainy,cloudy,clean,ajaccio
+347,11,dec,cool,cool,damp,rainy,cloudy,clean,ajaccio
+348,0,jan,mild,mild,nice,dry,pockets,okay,ahvaz
+349,1,feb,mild,mild,nice,dry,pockets,bad,ahvaz
+350,2,mar,warm,warm,nice,dry,pockets,bad,ahvaz
+351,3,apr,hot,hot,too dry,dry,pockets,bad,ahvaz
+352,4,may,hot,scorching,too dry,dry,clear,bad,ahvaz
+353,5,jun,scorching,scorching,too dry,dry,clear,bad,ahvaz
+354,6,jul,scorching,scorching,too dry,dry,clear,bad,ahvaz
+355,7,aug,scorching,scorching,too dry,dry,clear,bad,ahvaz
+356,8,sep,hot,hot,too dry,dry,clear,bad,ahvaz
+357,9,oct,hot,hot,too dry,dry,clear,bad,ahvaz
+358,10,nov,warm,warm,nice,dry,pockets,bad,ahvaz
+359,11,dec,mild,mild,nice,rainy,cloudy,bad,ahvaz
+360,0,jan,warm,very warm,too dry,dry,clear,avoid sun,khartoum
+361,1,feb,warm,very warm,too dry,dry,clear,avoid sun,khartoum
+362,2,mar,hot,hot,too dry,dry,pockets,avoid sun,khartoum
+363,3,apr,hot,hot,too dry,dry,pockets,avoid sun,khartoum
+364,4,may,hot,hot,too dry,dry,pockets,avoid sun,khartoum
+365,5,jun,scorching,hot,nice,dry,cloudy,avoid sun,khartoum
+366,6,jul,scorching,hot,nice,dry,cloudy,avoid sun,khartoum
+367,7,aug,scorching,hot,nice,dry,cloudy,avoid sun,khartoum
+368,8,sep,scorching,hot,nice,dry,cloudy,avoid sun,khartoum
+369,9,oct,hot,hot,too dry,dry,pockets,avoid sun,khartoum
+370,10,nov,hot,hot,too dry,dry,clear,avoid sun,khartoum
+371,11,dec,warm,very warm,too dry,dry,clear,avoid sun,khartoum
+372,0,jan,mild,mild,nice,dry,pockets,bad,kuwait-city
+373,1,feb,mild,mild,nice,dry,pockets,bad,kuwait-city
+374,2,mar,warm,warm,nice,dry,pockets,okay,kuwait-city
+375,3,apr,warm,hot,nice,dry,pockets,okay,kuwait-city
+376,4,may,hot,hot,too dry,dry,clear,bad,kuwait-city
+377,5,jun,scorching,scorching,too dry,dry,clear,bad,kuwait-city
+378,6,jul,scorching,scorching,too dry,dry,clear,bad,kuwait-city
+379,7,aug,scorching,scorching,too dry,dry,clear,bad,kuwait-city
+380,8,sep,hot,hot,too dry,dry,clear,bad,kuwait-city
+381,9,oct,hot,hot,too dry,dry,clear,bad,kuwait-city
+382,10,nov,warm,warm,nice,dry,pockets,okay,kuwait-city
+383,11,dec,mild,mild,nice,dry,cloudy,bad,kuwait-city
+384,0,jan,cold,cold,nice,rainy,cloudy,clean,hamamatsu
+385,1,feb,cold,cold,nice,rainy,pockets,clean,hamamatsu
+386,2,mar,cool,cool,nice,rainy,cloudy,clean,hamamatsu
+387,3,apr,cool,cool,nice,rainy,cloudy,clean,hamamatsu
+388,4,may,mild,mild,nice,rainy,cloudy,clean,hamamatsu
+389,5,jun,warm,warm,nice,rainy,cloudy,clean,hamamatsu
+390,6,jul,hot,very warm,sweaty,rainy,cloudy,clean,hamamatsu
+391,7,aug,hot,very warm,sweaty,rainy,cloudy,clean,hamamatsu
+392,8,sep,warm,warm,nice,rainy,cloudy,clean,hamamatsu
+393,9,oct,mild,mild,nice,rainy,cloudy,clean,hamamatsu
+394,10,nov,cool,cool,nice,rainy,pockets,clean,hamamatsu
+395,11,dec,cold,cold,nice,rainy,pockets,clean,hamamatsu
+396,0,jan,cool,cool,nice,dry,pockets,seek shade,damascus
+397,1,feb,cool,cool,nice,dry,pockets,seek shade,damascus
+398,2,mar,cool,cool,nice,dry,pockets,avoid sun,damascus
+399,3,apr,warm,warm,too dry,dry,pockets,avoid sun,damascus
+400,4,may,warm,very warm,too dry,dry,clear,avoid sun,damascus
+401,5,jun,warm,very warm,nice,dry,clear,avoid sun,damascus
+402,6,jul,hot,hot,nice,dry,clear,avoid sun,damascus
+403,7,aug,hot,hot,too dry,dry,clear,avoid sun,damascus
+404,8,sep,warm,very warm,nice,dry,clear,avoid sun,damascus
+405,9,oct,warm,warm,nice,dry,pockets,avoid sun,damascus
+406,10,nov,mild,mild,nice,dry,pockets,seek shade,damascus
+407,11,dec,cool,cool,nice,dry,cloudy,seek shade,damascus
+408,0,jan,warm,warm,nice,dry,pockets,avoid sun,djibouti
+409,1,feb,hot,very warm,nice,dry,pockets,avoid sun,djibouti
+410,2,mar,hot,hot,nice,dry,pockets,avoid sun,djibouti
+411,3,apr,hot,hot,nice,dry,pockets,avoid sun,djibouti
+412,4,may,hot,hot,too dry,dry,pockets,avoid sun,djibouti
+413,5,jun,hot,hot,too dry,dry,cloudy,avoid sun,djibouti
+414,6,jul,hot,hot,nice,rainy,cloudy,avoid sun,djibouti
+415,7,aug,hot,hot,nice,rainy,cloudy,avoid sun,djibouti
+416,8,sep,hot,hot,nice,rainy,cloudy,avoid sun,djibouti
+417,9,oct,hot,hot,nice,dry,pockets,avoid sun,djibouti
+418,10,nov,hot,hot,nice,dry,pockets,avoid sun,djibouti
+419,11,dec,warm,very warm,nice,dry,pockets,avoid sun,djibouti
+420,0,jan,cold,cold,nice,dry,cloudy,bad,changsha
+421,1,feb,cool,cool,damp,rainy,cloudy,bad,changsha
+422,2,mar,cool,cool,damp,rainy,overcast,bad,changsha
+423,3,apr,cool,cool,damp,rainy,overcast,bad,changsha
+424,4,may,warm,warm,nice,rainy,overcast,bad,changsha
+425,5,jun,hot,very warm,sweaty,rainy,cloudy,okay,changsha
+426,6,jul,scorching,hot,sweaty,rainy,cloudy,okay,changsha
+427,7,aug,scorching,hot,sweaty,rainy,cloudy,okay,changsha
+428,8,sep,hot,hot,sweaty,dry,pockets,bad,changsha
+429,9,oct,mild,mild,nice,rainy,cloudy,bad,changsha
+430,10,nov,cool,cool,nice,rainy,cloudy,bad,changsha
+431,11,dec,cool,cool,nice,dry,cloudy,bad,changsha
+432,0,jan,hot,hot,nice,dry,pockets,avoid sun,bangui
+433,1,feb,hot,hot,nice,dry,cloudy,avoid sun,bangui
+434,2,mar,scorching,hot,nice,rainy,cloudy,avoid sun,bangui
+435,3,apr,scorching,hot,nice,rainy,cloudy,avoid sun,bangui
+436,4,may,hot,hot,sweaty,rainy,cloudy,avoid sun,bangui
+437,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,bangui
+438,6,jul,hot,very warm,sweaty,rainy,cloudy,avoid sun,bangui
+439,7,aug,hot,very warm,sweaty,rainy,cloudy,avoid sun,bangui
+440,8,sep,hot,very warm,sweaty,rainy,cloudy,avoid sun,bangui
+441,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,bangui
+442,10,nov,hot,very warm,sweaty,rainy,cloudy,avoid sun,bangui
+443,11,dec,hot,hot,nice,dry,cloudy,avoid sun,bangui
+444,0,jan,hot,warm,sweaty,rainy,pockets,avoid sun,bay-islands
+445,1,feb,hot,warm,sweaty,rainy,pockets,avoid sun,bay-islands
+446,2,mar,hot,warm,sweaty,rainy,pockets,avoid sun,bay-islands
+447,3,apr,hot,very warm,sweaty,rainy,pockets,avoid sun,bay-islands
+448,4,may,hot,very warm,sweaty,dry,pockets,avoid sun,bay-islands
+449,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,bay-islands
+450,6,jul,hot,very warm,sweaty,rainy,cloudy,avoid sun,bay-islands
+451,7,aug,hot,very warm,sweaty,rainy,cloudy,avoid sun,bay-islands
+452,8,sep,hot,very warm,sweaty,rainy,pockets,avoid sun,bay-islands
+453,9,oct,hot,very warm,sweaty,rainy,pockets,avoid sun,bay-islands
+454,10,nov,hot,warm,sweaty,rainy,cloudy,avoid sun,bay-islands
+455,11,dec,hot,warm,sweaty,rainy,pockets,avoid sun,bay-islands
+456,0,jan,cold,cold,nice,dry,cloudy,bad,yangzhou
+457,1,feb,cool,cool,damp,dry,cloudy,bad,yangzhou
+458,2,mar,cool,cool,damp,rainy,cloudy,bad,yangzhou
+459,3,apr,mild,mild,nice,dry,cloudy,bad,yangzhou
+460,4,may,warm,warm,nice,rainy,cloudy,bad,yangzhou
+461,5,jun,hot,very warm,sweaty,rainy,cloudy,bad,yangzhou
+462,6,jul,scorching,hot,sweaty,rainy,cloudy,okay,yangzhou
+463,7,aug,hot,very warm,sweaty,rainy,cloudy,okay,yangzhou
+464,8,sep,hot,very warm,sweaty,rainy,cloudy,okay,yangzhou
+465,9,oct,mild,mild,nice,rainy,cloudy,bad,yangzhou
+466,10,nov,cool,cool,nice,dry,pockets,bad,yangzhou
+467,11,dec,cool,cool,nice,dry,pockets,bad,yangzhou
+468,0,jan,hot,very warm,nice,dry,pockets,clean,jeddah
+469,1,feb,hot,very warm,nice,dry,pockets,bad,jeddah
+470,2,mar,hot,very warm,nice,dry,clear,bad,jeddah
+471,3,apr,hot,hot,nice,dry,pockets,bad,jeddah
+472,4,may,hot,hot,nice,dry,pockets,bad,jeddah
+473,5,jun,scorching,hot,nice,dry,pockets,bad,jeddah
+474,6,jul,scorching,hot,nice,dry,cloudy,clean,jeddah
+475,7,aug,scorching,hot,nice,dry,pockets,clean,jeddah
+476,8,sep,scorching,hot,sweaty,dry,pockets,clean,jeddah
+477,9,oct,scorching,hot,nice,dry,pockets,clean,jeddah
+478,10,nov,hot,hot,nice,dry,clear,clean,jeddah
+479,11,dec,hot,very warm,nice,dry,pockets,clean,jeddah
+480,0,jan,warm,very warm,nice,dry,pockets,avoid sun,mecca
+481,1,feb,warm,very warm,nice,dry,pockets,avoid sun,mecca
+482,2,mar,hot,hot,nice,dry,clear,avoid sun,mecca
+483,3,apr,hot,hot,nice,dry,pockets,avoid sun,mecca
+484,4,may,scorching,hot,nice,dry,pockets,avoid sun,mecca
+485,5,jun,scorching,hot,nice,dry,pockets,avoid sun,mecca
+486,6,jul,scorching,hot,nice,dry,cloudy,avoid sun,mecca
+487,7,aug,scorching,hot,nice,dry,pockets,avoid sun,mecca
+488,8,sep,scorching,hot,nice,dry,pockets,avoid sun,mecca
+489,9,oct,scorching,hot,nice,dry,clear,avoid sun,mecca
+490,10,nov,hot,hot,nice,dry,clear,avoid sun,mecca
+491,11,dec,warm,very warm,nice,dry,pockets,avoid sun,mecca
+492,0,jan,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+493,1,feb,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+494,2,mar,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+495,3,apr,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+496,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+497,5,jun,hot,very warm,sweaty,rainy,overcast,avoid sun,monrovia
+498,6,jul,hot,warm,sweaty,rainy,overcast,avoid sun,monrovia
+499,7,aug,hot,warm,sweaty,rainy,cloudy,avoid sun,monrovia
+500,8,sep,hot,very warm,sweaty,rainy,overcast,avoid sun,monrovia
+501,9,oct,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+502,10,nov,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+503,11,dec,hot,very warm,sweaty,rainy,cloudy,avoid sun,monrovia
+504,0,jan,hot,warm,sweaty,rainy,overcast,clean,noumea
+505,1,feb,hot,very warm,sweaty,rainy,cloudy,clean,noumea
+506,2,mar,hot,warm,sweaty,rainy,cloudy,clean,noumea
+507,3,apr,warm,warm,nice,rainy,cloudy,clean,noumea
+508,4,may,warm,warm,nice,rainy,cloudy,clean,noumea
+509,5,jun,mild,mild,nice,dry,cloudy,clean,noumea
+510,6,jul,mild,mild,nice,dry,cloudy,clean,noumea
+511,7,aug,mild,mild,nice,dry,cloudy,clean,noumea
+512,8,sep,mild,mild,nice,rainy,cloudy,clean,noumea
+513,9,oct,warm,warm,nice,rainy,cloudy,clean,noumea
+514,10,nov,warm,warm,nice,rainy,cloudy,clean,noumea
+515,11,dec,hot,very warm,sweaty,rainy,cloudy,clean,noumea
+516,0,jan,hot,very warm,sweaty,rainy,overcast,avoid sun,tabarana-do-norte
+517,1,feb,hot,very warm,sweaty,rainy,overcast,avoid sun,tabarana-do-norte
+518,2,mar,hot,warm,sweaty,rainy,overcast,avoid sun,tabarana-do-norte
+519,3,apr,hot,very warm,sweaty,rainy,overcast,avoid sun,tabarana-do-norte
+520,4,may,hot,very warm,sweaty,rainy,cloudy,avoid sun,tabarana-do-norte
+521,5,jun,hot,very warm,sweaty,rainy,cloudy,avoid sun,tabarana-do-norte
+522,6,jul,hot,hot,nice,dry,pockets,avoid sun,tabarana-do-norte
+523,7,aug,hot,hot,nice,dry,pockets,avoid sun,tabarana-do-norte
+524,8,sep,scorching,hot,sweaty,rainy,cloudy,avoid sun,tabarana-do-norte
+525,9,oct,scorching,hot,sweaty,rainy,cloudy,avoid sun,tabarana-do-norte
+526,10,nov,hot,very warm,sweaty,rainy,overcast,avoid sun,tabarana-do-norte
+527,11,dec,hot,very warm,sweaty,rainy,overcast,avoid sun,tabarana-do-norte
+528,0,jan,warm,hot,too dry,dry,pockets,avoid sun,ndjamena
+529,1,feb,warm,hot,too dry,dry,pockets,avoid sun,ndjamena
+530,2,mar,hot,hot,too dry,dry,pockets,avoid sun,ndjamena
+531,3,apr,hot,hot,too dry,dry,pockets,avoid sun,ndjamena
+532,4,may,scorching,hot,too dry,dry,pockets,avoid sun,ndjamena
+533,5,jun,scorching,hot,nice,dry,cloudy,avoid sun,ndjamena
+534,6,jul,hot,hot,nice,rainy,cloudy,avoid sun,ndjamena
+535,7,aug,hot,very warm,sweaty,rainy,cloudy,avoid sun,ndjamena
+536,8,sep,scorching,hot,sweaty,rainy,cloudy,avoid sun,ndjamena
+537,9,oct,hot,hot,nice,dry,cloudy,avoid sun,ndjamena
+538,10,nov,hot,hot,too dry,dry,pockets,avoid sun,ndjamena
+539,11,dec,warm,very warm,too dry,dry,pockets,avoid sun,ndjamena
+540,0,jan,freezing,freezing,damp,rainy,cloudy,safe,kyiv
+541,1,feb,freezing,freezing,damp,rainy,cloudy,safe,kyiv
+542,2,mar,cold,very cold,nice,dry,cloudy,safe,kyiv
+543,3,apr,cool,cool,nice,dry,cloudy,seek shade,kyiv
+544,4,may,mild,mild,nice,rainy,cloudy,seek shade,kyiv
+545,5,jun,warm,warm,nice,dry,cloudy,seek shade,kyiv
+546,6,jul,warm,warm,nice,rainy,pockets,avoid sun,kyiv
+547,7,aug,warm,warm,nice,rainy,pockets,seek shade,kyiv
+548,8,sep,cool,cool,nice,rainy,cloudy,seek shade,kyiv
+549,9,oct,cool,cool,nice,dry,pockets,safe,kyiv
+550,10,nov,cold,cold,damp,dry,cloudy,safe,kyiv
+551,11,dec,freezing,very cold,damp,rainy,cloudy,safe,kyiv
+552,0,jan,freezing,freezing,damp,rainy,overcast,clean,moscow
+553,1,feb,freezing,freezing,damp,rainy,cloudy,clean,moscow
+554,2,mar,freezing,freezing,damp,dry,cloudy,clean,moscow
+555,3,apr,cold,cold,damp,rainy,cloudy,okay,moscow
+556,4,may,cool,cool,nice,rainy,cloudy,okay,moscow
+557,5,jun,mild,mild,nice,rainy,pockets,okay,moscow
+558,6,jul,warm,warm,nice,dry,pockets,clean,moscow
+559,7,aug,mild,mild,nice,dry,cloudy,clean,moscow
+560,8,sep,cold,cool,damp,rainy,cloudy,okay,moscow
+561,9,oct,cold,cold,damp,dry,cloudy,clean,moscow
+562,10,nov,freezing,very cold,damp,rainy,overcast,okay,moscow
+563,11,dec,freezing,freezing,damp,rainy,overcast,okay,moscow
+564,0,jan,freezing,very cold,damp,rainy,cloudy,okay,lviv
+565,1,feb,freezing,freezing,damp,rainy,cloudy,clean,lviv
+566,2,mar,cold,very cold,damp,rainy,cloudy,clean,lviv
+567,3,apr,cold,cold,damp,rainy,cloudy,clean,lviv
+568,4,may,cool,cool,damp,rainy,cloudy,clean,lviv
+569,5,jun,mild,mild,nice,rainy,pockets,clean,lviv
+570,6,jul,warm,warm,sweaty,rainy,cloudy,clean,lviv
+571,7,aug,mild,mild,nice,rainy,cloudy,clean,lviv
+572,8,sep,cool,cool,damp,rainy,cloudy,clean,lviv
+573,9,oct,cool,cool,nice,dry,cloudy,okay,lviv
+574,10,nov,cold,cold,damp,dry,cloudy,okay,lviv
+575,11,dec,freezing,freezing,damp,rainy,overcast,okay,lviv
+576,0,jan,freezing,freezing,damp,rainy,overcast,safe,minsk
+577,1,feb,freezing,freezing,damp,dry,cloudy,safe,minsk
+578,2,mar,freezing,very cold,damp,dry,cloudy,safe,minsk
+579,3,apr,cold,cold,damp,rainy,cloudy,seek shade,minsk
+580,4,may,cool,cool,damp,rainy,cloudy,seek shade,minsk
+581,5,jun,mild,mild,nice,rainy,cloudy,seek shade,minsk
+582,6,jul,warm,warm,nice,dry,pockets,avoid sun,minsk
+583,7,aug,mild,mild,nice,rainy,cloudy,seek shade,minsk
+584,8,sep,cool,cool,damp,rainy,cloudy,seek shade,minsk
+585,9,oct,cold,cold,damp,dry,cloudy,safe,minsk
+586,10,nov,cold,very cold,damp,rainy,cloudy,safe,minsk
+587,11,dec,freezing,freezing,damp,dry,overcast,safe,minsk
+588,0,jan,cold,very cold,damp,rainy,cloudy,okay,odessa
+589,1,feb,cold,very cold,damp,dry,cloudy,clean,odessa
+590,2,mar,cold,very cold,damp,dry,cloudy,clean,odessa
+591,3,apr,cold,cool,damp,rainy,cloudy,clean,odessa
+592,4,may,cool,cool,nice,dry,cloudy,clean,odessa
+593,5,jun,mild,mild,nice,rainy,cloudy,clean,odessa
+594,6,jul,hot,very warm,nice,rainy,pockets,clean,odessa
+595,7,aug,warm,warm,nice,dry,pockets,clean,odessa
+596,8,sep,mild,mild,nice,rainy,cloudy,clean,odessa
+597,9,oct,cool,cool,nice,dry,pockets,okay,odessa
+598,10,nov,cold,cool,damp,dry,cloudy,okay,odessa
+599,11,dec,cold,very cold,damp,rainy,overcast,clean,odessa
+600,0,jan,freezing,very cold,damp,dry,cloudy,bad,ivano-frankivsk
+601,1,feb,freezing,freezing,damp,rainy,cloudy,clean,ivano-frankivsk
+602,2,mar,cold,very cold,damp,rainy,cloudy,okay,ivano-frankivsk
+603,3,apr,cold,cold,damp,rainy,cloudy,clean,ivano-frankivsk
+604,4,may,cool,cool,damp,rainy,cloudy,clean,ivano-frankivsk
+605,5,jun,mild,mild,nice,rainy,cloudy,clean,ivano-frankivsk
+606,6,jul,warm,warm,sweaty,rainy,cloudy,clean,ivano-frankivsk
+607,7,aug,mild,mild,nice,rainy,cloudy,clean,ivano-frankivsk
+608,8,sep,cool,cool,nice,rainy,cloudy,clean,ivano-frankivsk
+609,9,oct,cool,cool,nice,dry,cloudy,clean,ivano-frankivsk
+610,10,nov,cold,cold,damp,dry,cloudy,clean,ivano-frankivsk
+611,11,dec,freezing,freezing,damp,rainy,overcast,okay,ivano-frankivsk
+612,0,jan,freezing,freezing,damp,dry,overcast,safe,saint-petersburg
+613,1,feb,freezing,freezing,damp,dry,cloudy,safe,saint-petersburg
+614,2,mar,freezing,very cold,damp,dry,cloudy,safe,saint-petersburg
+615,3,apr,cold,very cold,damp,dry,cloudy,safe,saint-petersburg
+616,4,may,cool,cool,damp,rainy,cloudy,seek shade,saint-petersburg
+617,5,jun,mild,mild,nice,dry,pockets,seek shade,saint-petersburg
+618,6,jul,warm,warm,nice,dry,cloudy,seek shade,saint-petersburg
+619,7,aug,mild,mild,nice,rainy,cloudy,seek shade,saint-petersburg
+620,8,sep,cold,cool,damp,rainy,cloudy,safe,saint-petersburg
+621,9,oct,cold,cold,damp,rainy,cloudy,safe,saint-petersburg
+622,10,nov,freezing,very cold,damp,rainy,overcast,safe,saint-petersburg
+623,11,dec,freezing,freezing,damp,dry,cloudy,safe,saint-petersburg
+624,0,jan,freezing,freezing,damp,rainy,overcast,safe,ufa
+625,1,feb,freezing,freezing,damp,dry,overcast,safe,ufa
+626,2,mar,freezing,freezing,damp,dry,cloudy,safe,ufa
+627,3,apr,cold,cool,nice,dry,cloudy,seek shade,ufa
+628,4,may,warm,warm,nice,dry,pockets,seek shade,ufa
+629,5,jun,warm,warm,nice,dry,pockets,seek shade,ufa
+630,6,jul,warm,warm,nice,dry,pockets,seek shade,ufa
+631,7,aug,warm,warm,nice,dry,pockets,seek shade,ufa
+632,8,sep,cool,cool,nice,dry,cloudy,seek shade,ufa
+633,9,oct,cold,cold,nice,dry,cloudy,safe,ufa
+634,10,nov,freezing,freezing,damp,dry,cloudy,safe,ufa
+635,11,dec,freezing,freezing,damp,rainy,overcast,safe,ufa
+636,0,jan,freezing,very cold,damp,rainy,overcast,safe,kharkiv
+637,1,feb,freezing,freezing,damp,rainy,overcast,safe,kharkiv
+638,2,mar,freezing,very cold,damp,dry,cloudy,safe,kharkiv
+639,3,apr,cold,cool,damp,rainy,cloudy,seek shade,kharkiv
+640,4,may,mild,mild,nice,rainy,cloudy,seek shade,kharkiv
+641,5,jun,warm,warm,nice,rainy,cloudy,seek shade,kharkiv
+642,6,jul,hot,very warm,nice,dry,pockets,avoid sun,kharkiv
+643,7,aug,warm,very warm,nice,dry,cloudy,seek shade,kharkiv
+644,8,sep,cool,cool,nice,rainy,cloudy,seek shade,kharkiv
+645,9,oct,cool,cool,nice,dry,cloudy,safe,kharkiv
+646,10,nov,cold,cold,damp,dry,cloudy,safe,kharkiv
+647,11,dec,freezing,very cold,damp,rainy,overcast,safe,kharkiv
+648,0,jan,cold,very cold,damp,rainy,cloudy,safe,krasnodar
+649,1,feb,freezing,very cold,damp,rainy,cloudy,safe,krasnodar
+650,2,mar,cold,cold,damp,rainy,cloudy,seek shade,krasnodar
+651,3,apr,cool,cool,damp,rainy,cloudy,seek shade,krasnodar
+652,4,may,warm,warm,nice,rainy,cloudy,avoid sun,krasnodar
+653,5,jun,warm,warm,nice,rainy,cloudy,avoid sun,krasnodar
+654,6,jul,hot,hot,nice,dry,pockets,avoid sun,krasnodar
+655,7,aug,hot,very warm,nice,rainy,pockets,avoid sun,krasnodar
+656,8,sep,mild,mild,nice,rainy,cloudy,seek shade,krasnodar
+657,9,oct,cool,cool,damp,dry,cloudy,seek shade,krasnodar
+658,10,nov,cool,cool,damp,rainy,cloudy,safe,krasnodar
+659,11,dec,cold,cold,damp,dry,cloudy,safe,krasnodar
+660,0,jan,freezing,freezing,nice,dry,cloudy,okay,krasnoyarsk
+661,1,feb,freezing,freezing,damp,dry,cloudy,clean,krasnoyarsk
+662,2,mar,freezing,freezing,damp,dry,cloudy,clean,krasnoyarsk
+663,3,apr,cold,very cold,damp,dry,cloudy,clean,krasnoyarsk
+664,4,may,cool,cool,nice,dry,cloudy,clean,krasnoyarsk
+665,5,jun,mild,mild,nice,rainy,cloudy,clean,krasnoyarsk
+666,6,jul,mild,mild,nice,rainy,cloudy,clean,krasnoyarsk
+667,7,aug,mild,mild,nice,rainy,cloudy,clean,krasnoyarsk
+668,8,sep,cool,cool,damp,rainy,cloudy,clean,krasnoyarsk
+669,9,oct,cold,cold,damp,dry,cloudy,clean,krasnoyarsk
+670,10,nov,freezing,freezing,damp,dry,overcast,clean,krasnoyarsk
+671,11,dec,freezing,freezing,damp,dry,overcast,okay,krasnoyarsk
+672,0,jan,freezing,very cold,damp,dry,cloudy,bad,dnipro
+673,1,feb,freezing,freezing,damp,dry,overcast,clean,dnipro
+674,2,mar,cold,cold,damp,dry,cloudy,clean,dnipro
+675,3,apr,cool,cool,nice,rainy,cloudy,okay,dnipro
+676,4,may,mild,mild,nice,rainy,cloudy,clean,dnipro
+677,5,jun,warm,warm,nice,rainy,cloudy,clean,dnipro
+678,6,jul,hot,very warm,nice,dry,pockets,clean,dnipro
+679,7,aug,hot,hot,nice,dry,cloudy,okay,dnipro
+680,8,sep,mild,mild,nice,rainy,cloudy,clean,dnipro
+681,9,oct,cool,cool,nice,dry,cloudy,clean,dnipro
+682,10,nov,cold,cold,damp,dry,cloudy,clean,dnipro
+683,11,dec,cold,very cold,damp,rainy,overcast,clean,dnipro
+684,0,jan,freezing,very cold,damp,rainy,cloudy,okay,krivoy-rog
+685,1,feb,freezing,freezing,damp,dry,cloudy,clean,krivoy-rog
+686,2,mar,cold,very cold,damp,dry,cloudy,clean,krivoy-rog
+687,3,apr,cool,cool,nice,dry,cloudy,clean,krivoy-rog
+688,4,may,mild,mild,nice,dry,cloudy,clean,krivoy-rog
+689,5,jun,warm,warm,nice,rainy,cloudy,clean,krivoy-rog
+690,6,jul,hot,very warm,nice,rainy,pockets,clean,krivoy-rog
+691,7,aug,warm,very warm,nice,dry,pockets,clean,krivoy-rog
+692,8,sep,mild,mild,nice,rainy,cloudy,clean,krivoy-rog
+693,9,oct,cool,cool,nice,dry,pockets,clean,krivoy-rog
+694,10,nov,cold,cold,damp,dry,cloudy,okay,krivoy-rog
+695,11,dec,freezing,very cold,damp,rainy,overcast,okay,krivoy-rog
+696,0,jan,freezing,freezing,damp,rainy,overcast,safe,izhevsk
+697,1,feb,freezing,freezing,damp,dry,cloudy,safe,izhevsk
+698,2,mar,freezing,freezing,damp,dry,cloudy,safe,izhevsk
+699,3,apr,cold,cold,damp,rainy,cloudy,seek shade,izhevsk
+700,4,may,mild,mild,nice,dry,cloudy,seek shade,izhevsk
+701,5,jun,warm,warm,nice,dry,pockets,seek shade,izhevsk
+702,6,jul,warm,warm,nice,rainy,cloudy,seek shade,izhevsk
+703,7,aug,warm,warm,nice,dry,cloudy,seek shade,izhevsk
+704,8,sep,cold,cool,damp,rainy,cloudy,safe,izhevsk
+705,9,oct,cold,cold,damp,dry,cloudy,safe,izhevsk
+706,10,nov,freezing,freezing,damp,rainy,overcast,safe,izhevsk
+707,11,dec,freezing,freezing,damp,dry,cloudy,safe,izhevsk
+708,0,jan,freezing,freezing,damp,dry,cloudy,safe,chelyabinsk
+709,1,feb,freezing,freezing,damp,dry,cloudy,safe,chelyabinsk
+710,2,mar,freezing,freezing,damp,dry,cloudy,safe,chelyabinsk
+711,3,apr,cold,cool,nice,dry,cloudy,seek shade,chelyabinsk
+712,4,may,mild,mild,nice,dry,pockets,avoid sun,chelyabinsk
+713,5,jun,mild,mild,nice,dry,pockets,seek shade,chelyabinsk
+714,6,jul,mild,mild,nice,rainy,cloudy,seek shade,chelyabinsk
+715,7,aug,warm,warm,nice,dry,pockets,seek shade,chelyabinsk
+716,8,sep,cool,cool,nice,dry,cloudy,seek shade,chelyabinsk
+717,9,oct,cold,cold,damp,dry,cloudy,safe,chelyabinsk
+718,10,nov,freezing,freezing,damp,dry,cloudy,safe,chelyabinsk
+719,11,dec,freezing,freezing,damp,dry,cloudy,safe,chelyabinsk
+720,0,jan,freezing,freezing,damp,rainy,cloudy,safe,saratov
+721,1,feb,freezing,freezing,damp,rainy,cloudy,safe,saratov
+722,2,mar,freezing,freezing,damp,dry,cloudy,safe,saratov
+723,3,apr,cold,cool,damp,rainy,cloudy,seek shade,saratov
+724,4,may,mild,mild,nice,dry,cloudy,seek shade,saratov
+725,5,jun,warm,warm,nice,rainy,cloudy,avoid sun,saratov
+726,6,jul,warm,very warm,nice,dry,pockets,avoid sun,saratov
+727,7,aug,warm,very warm,nice,dry,cloudy,seek shade,saratov
+728,8,sep,cool,cool,nice,dry,cloudy,seek shade,saratov
+729,9,oct,cool,cool,nice,dry,cloudy,safe,saratov
+730,10,nov,cold,very cold,damp,dry,cloudy,safe,saratov
+731,11,dec,freezing,freezing,damp,dry,overcast,safe,saratov
+732,0,jan,freezing,freezing,nice,dry,cloudy,safe,omsk
+733,1,feb,freezing,freezing,damp,dry,cloudy,safe,omsk
+734,2,mar,freezing,freezing,damp,dry,cloudy,safe,omsk
+735,3,apr,cold,cold,nice,dry,cloudy,seek shade,omsk
+736,4,may,mild,mild,nice,dry,cloudy,seek shade,omsk
+737,5,jun,mild,mild,nice,rainy,cloudy,seek shade,omsk
+738,6,jul,warm,warm,nice,dry,cloudy,seek shade,omsk
+739,7,aug,warm,warm,nice,rainy,cloudy,seek shade,omsk
+740,8,sep,cool,cool,nice,dry,cloudy,seek shade,omsk
+741,9,oct,cold,cold,damp,dry,cloudy,safe,omsk
+742,10,nov,freezing,freezing,damp,dry,cloudy,safe,omsk
+743,11,dec,freezing,freezing,damp,dry,cloudy,safe,omsk
+744,0,jan,freezing,freezing,damp,dry,overcast,safe,yekaterinburg
+745,1,feb,freezing,freezing,damp,dry,cloudy,safe,yekaterinburg
+746,2,mar,freezing,freezing,damp,dry,cloudy,safe,yekaterinburg
+747,3,apr,cold,cold,nice,dry,cloudy,seek shade,yekaterinburg
+748,4,may,mild,mild,nice,dry,pockets,seek shade,yekaterinburg
+749,5,jun,mild,mild,nice,dry,cloudy,seek shade,yekaterinburg
+750,6,jul,mild,mild,nice,rainy,cloudy,seek shade,yekaterinburg
+751,7,aug,warm,warm,nice,dry,cloudy,seek shade,yekaterinburg
+752,8,sep,cold,cold,nice,dry,cloudy,seek shade,yekaterinburg
+753,9,oct,cold,cold,damp,dry,cloudy,safe,yekaterinburg
+754,10,nov,freezing,freezing,damp,dry,cloudy,safe,yekaterinburg
+755,11,dec,freezing,freezing,damp,dry,cloudy,safe,yekaterinburg
+756,0,jan,freezing,very cold,damp,rainy,overcast,safe,kaliningrad
+757,1,feb,freezing,freezing,damp,dry,cloudy,safe,kaliningrad
+758,2,mar,cold,very cold,damp,dry,cloudy,safe,kaliningrad
+759,3,apr,cold,cold,damp,dry,cloudy,seek shade,kaliningrad
+760,4,may,cool,cool,damp,rainy,cloudy,seek shade,kaliningrad
+761,5,jun,mild,mild,nice,dry,pockets,avoid sun,kaliningrad
+762,6,jul,warm,warm,nice,rainy,pockets,seek shade,kaliningrad
+763,7,aug,mild,mild,nice,rainy,cloudy,seek shade,kaliningrad
+764,8,sep,cool,cool,damp,dry,cloudy,seek shade,kaliningrad
+765,9,oct,cool,cool,damp,dry,cloudy,safe,kaliningrad
+766,10,nov,cold,cold,damp,rainy,cloudy,safe,kaliningrad
+767,11,dec,freezing,freezing,damp,rainy,cloudy,safe,kaliningrad
+768,0,jan,freezing,freezing,damp,rainy,overcast,safe,ulyanovsk
+769,1,feb,freezing,freezing,damp,rainy,cloudy,safe,ulyanovsk
+770,2,mar,freezing,freezing,damp,dry,cloudy,safe,ulyanovsk
+771,3,apr,cold,cold,damp,dry,cloudy,seek shade,ulyanovsk
+772,4,may,mild,mild,nice,dry,cloudy,seek shade,ulyanovsk
+773,5,jun,warm,warm,nice,dry,pockets,avoid sun,ulyanovsk
+774,6,jul,warm,warm,nice,dry,pockets,seek shade,ulyanovsk
+775,7,aug,warm,warm,nice,dry,cloudy,seek shade,ulyanovsk
+776,8,sep,cool,cool,nice,rainy,cloudy,seek shade,ulyanovsk
+777,9,oct,cold,cold,nice,dry,cloudy,safe,ulyanovsk
+778,10,nov,freezing,very cold,damp,dry,cloudy,safe,ulyanovsk
+779,11,dec,freezing,freezing,damp,dry,cloudy,safe,ulyanovsk
+780,0,jan,freezing,freezing,damp,rainy,overcast,safe,obninsk
+781,1,feb,freezing,freezing,damp,rainy,cloudy,safe,obninsk
+782,2,mar,freezing,very cold,damp,dry,cloudy,safe,obninsk
+783,3,apr,cold,cold,damp,rainy,cloudy,seek shade,obninsk
+784,4,may,cool,cool,damp,rainy,cloudy,seek shade,obninsk
+785,5,jun,mild,mild,nice,dry,pockets,seek shade,obninsk
+786,6,jul,warm,warm,nice,dry,pockets,avoid sun,obninsk
+787,7,aug,mild,mild,nice,dry,cloudy,seek shade,obninsk
+788,8,sep,cold,cool,damp,rainy,cloudy,seek shade,obninsk
+789,9,oct,cold,cold,damp,dry,cloudy,safe,obninsk
+790,10,nov,freezing,very cold,damp,rainy,overcast,safe,obninsk
+791,11,dec,freezing,freezing,damp,rainy,overcast,safe,obninsk
+792,0,jan,cold,very cold,damp,rainy,overcast,safe,rostov-on-don
+793,1,feb,freezing,freezing,damp,dry,cloudy,safe,rostov-on-don
+794,2,mar,cold,very cold,damp,rainy,cloudy,safe,rostov-on-don
+795,3,apr,cool,cool,damp,rainy,cloudy,seek shade,rostov-on-don
+796,4,may,mild,mild,nice,dry,cloudy,seek shade,rostov-on-don
+797,5,jun,warm,warm,nice,rainy,cloudy,seek shade,rostov-on-don
+798,6,jul,hot,hot,nice,dry,pockets,avoid sun,rostov-on-don
+799,7,aug,hot,very warm,nice,rainy,cloudy,avoid sun,rostov-on-don
+800,8,sep,mild,mild,nice,dry,cloudy,seek shade,rostov-on-don
+801,9,oct,cool,cool,nice,dry,cloudy,safe,rostov-on-don
+802,10,nov,cold,cold,damp,rainy,cloudy,safe,rostov-on-don
+803,11,dec,cold,very cold,damp,rainy,overcast,safe,rostov-on-don
+804,0,jan,freezing,freezing,damp,rainy,overcast,safe,samara
+805,1,feb,freezing,freezing,damp,rainy,cloudy,safe,samara
+806,2,mar,freezing,freezing,damp,dry,cloudy,safe,samara
+807,3,apr,cold,cool,nice,dry,cloudy,seek shade,samara
+808,4,may,mild,mild,nice,dry,cloudy,seek shade,samara
+809,5,jun,warm,warm,nice,rainy,pockets,avoid sun,samara
+810,6,jul,warm,warm,nice,dry,pockets,avoid sun,samara
+811,7,aug,warm,very warm,nice,dry,pockets,seek shade,samara
+812,8,sep,cool,cool,nice,rainy,cloudy,seek shade,samara
+813,9,oct,cool,cool,nice,dry,cloudy,safe,samara
+814,10,nov,freezing,very cold,damp,rainy,cloudy,safe,samara
+815,11,dec,freezing,freezing,damp,rainy,overcast,safe,samara
+816,0,jan,freezing,freezing,nice,dry,cloudy,safe,novosibirsk
+817,1,feb,freezing,freezing,damp,dry,cloudy,safe,novosibirsk
+818,2,mar,freezing,freezing,damp,rainy,overcast,safe,novosibirsk
+819,3,apr,cold,very cold,damp,dry,cloudy,seek shade,novosibirsk
+820,4,may,cool,cool,nice,dry,cloudy,seek shade,novosibirsk
+821,5,jun,mild,mild,nice,rainy,cloudy,seek shade,novosibirsk
+822,6,jul,warm,warm,nice,dry,cloudy,seek shade,novosibirsk
+823,7,aug,mild,mild,nice,rainy,cloudy,seek shade,novosibirsk
+824,8,sep,cool,cool,damp,rainy,cloudy,seek shade,novosibirsk
+825,9,oct,cold,very cold,damp,dry,cloudy,safe,novosibirsk
+826,10,nov,freezing,freezing,damp,rainy,overcast,safe,novosibirsk
+827,11,dec,freezing,freezing,damp,rainy,overcast,safe,novosibirsk
+828,0,jan,freezing,freezing,nice,dry,cloudy,safe,tomsk
+829,1,feb,freezing,freezing,nice,dry,overcast,safe,tomsk
+830,2,mar,freezing,freezing,damp,rainy,overcast,safe,tomsk
+831,3,apr,cold,very cold,damp,dry,cloudy,seek shade,tomsk
+832,4,may,cool,cool,nice,dry,cloudy,seek shade,tomsk
+833,5,jun,cool,cool,nice,rainy,cloudy,seek shade,tomsk
+834,6,jul,mild,mild,nice,rainy,cloudy,seek shade,tomsk
+835,7,aug,mild,mild,nice,rainy,cloudy,seek shade,tomsk
+836,8,sep,cool,cool,damp,rainy,cloudy,safe,tomsk
+837,9,oct,cold,very cold,damp,dry,cloudy,safe,tomsk
+838,10,nov,freezing,freezing,damp,rainy,overcast,safe,tomsk
+839,11,dec,freezing,freezing,damp,dry,overcast,safe,tomsk
+840,0,jan,freezing,freezing,nice,dry,pockets,safe,vladivostok
+841,1,feb,freezing,freezing,nice,dry,cloudy,safe,vladivostok
+842,2,mar,cold,very cold,damp,rainy,pockets,seek shade,vladivostok
+843,3,apr,cold,cold,damp,dry,cloudy,seek shade,vladivostok
+844,4,may,cool,cool,damp,rainy,cloudy,seek shade,vladivostok
+845,5,jun,cool,cool,damp,rainy,cloudy,seek shade,vladivostok
+846,6,jul,warm,warm,nice,dry,cloudy,seek shade,vladivostok
+847,7,aug,warm,warm,nice,rainy,cloudy,seek shade,vladivostok
+848,8,sep,mild,mild,nice,rainy,cloudy,seek shade,vladivostok
+849,9,oct,cool,cool,nice,rainy,cloudy,seek shade,vladivostok
+850,10,nov,cold,very cold,nice,rainy,cloudy,safe,vladivostok
+851,11,dec,freezing,freezing,nice,dry,pockets,safe,vladivostok
+852,0,jan,freezing,freezing,damp,rainy,overcast,safe,kazan
+853,1,feb,freezing,freezing,damp,rainy,cloudy,safe,kazan
+854,2,mar,freezing,freezing,damp,dry,cloudy,safe,kazan
+855,3,apr,cold,cold,damp,dry,cloudy,seek shade,kazan
+856,4,may,mild,mild,nice,dry,cloudy,seek shade,kazan
+857,5,jun,warm,warm,nice,dry,pockets,avoid sun,kazan
+858,6,jul,warm,warm,nice,dry,cloudy,seek shade,kazan
+859,7,aug,warm,warm,nice,dry,pockets,seek shade,kazan
+860,8,sep,cool,cool,damp,dry,cloudy,seek shade,kazan
+861,9,oct,cold,cold,damp,dry,cloudy,safe,kazan
+862,10,nov,freezing,very cold,damp,rainy,overcast,safe,kazan
+863,11,dec,freezing,freezing,damp,dry,cloudy,safe,kazan
+864,0,jan,freezing,freezing,damp,rainy,overcast,safe,nizhny
+865,1,feb,freezing,freezing,damp,rainy,cloudy,safe,nizhny
+866,2,mar,freezing,freezing,damp,dry,cloudy,safe,nizhny
+867,3,apr,cold,cold,damp,rainy,cloudy,seek shade,nizhny
+868,4,may,mild,mild,nice,rainy,cloudy,seek shade,nizhny
+869,5,jun,warm,warm,nice,dry,pockets,seek shade,nizhny
+870,6,jul,warm,warm,nice,dry,cloudy,seek shade,nizhny
+871,7,aug,warm,warm,nice,dry,cloudy,seek shade,nizhny
+872,8,sep,cool,cool,damp,rainy,cloudy,seek shade,nizhny
+873,9,oct,cold,cold,damp,dry,cloudy,safe,nizhny
+874,10,nov,freezing,very cold,damp,rainy,overcast,safe,nizhny
+875,11,dec,freezing,freezing,damp,rainy,overcast,safe,nizhny

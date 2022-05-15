@@ -1,0 +1,1342 @@
+,City,Country,Continent
+0,ericeira,Portugal,Europe
+1,lisbon,Portugal,Europe
+2,miami,United States,North America
+3,gran-canaria,Spain,Europe
+4,budapest,Hungary,Europe
+5,austin,United States,North America
+6,porto,Portugal,Europe
+7,buenos-aires,Argentina,Latin America
+8,tbilisi,Georgia,Europe
+9,chiang-mai,Thailand,Asia
+10,sofia,Bulgaria,Europe
+11,warsaw,Poland,Europe
+12,bangkok,Thailand,Asia
+13,belgrade,Serbia,Europe
+14,istanbul,Turkey,Europe
+15,phuket,Thailand,Asia
+16,madeira,Portugal,Europe
+17,ko-pha-ngan,Thailand,Asia
+18,da-nang,Vietnam,Asia
+19,mexico-city,Mexico,Latin America
+20,prague,Czechia,Europe
+21,cape-town,South Africa,Africa
+22,seoul,South Korea,Asia
+23,singapore,Singapore,Asia
+24,toronto,Canada,North America
+25,timisoara,Romania,Europe
+26,berlin,Germany,Europe
+27,stockholm,Sweden,Europe
+28,valencia,Spain,Europe
+29,split,Croatia,Europe
+30,kuala-lumpur,Malaysia,Asia
+31,sao-paulo,Brazil,Latin America
+32,canggu,Indonesia,Asia
+33,krakow,Poland,Europe
+34,bengaluru,India,Asia
+35,penang,Malaysia,Asia
+36,atlanta,United States,North America
+37,wroclaw,Poland,Europe
+38,playa-del-carmen,Mexico,Latin America
+39,zagreb,Croatia,Europe
+40,bucharest,Romania,Europe
+41,yerevan,Armenia,Europe
+42,antalya,Turkey,Europe
+43,melbourne,Australia,Oceania
+44,honolulu,United States,Oceania
+45,auckland,New Zealand,Oceania
+46,cluj,Romania,Europe
+47,tenerife,Spain,Europe
+48,sydney,Australia,Oceania
+49,ljubljana,Slovenia,Europe
+50,florianopolis,Brazil,Latin America
+51,vancouver,Canada,North America
+52,madrid,Spain,Europe
+53,medellin,Colombia,Latin America
+54,taipei,Taiwan,Asia
+55,novi-sad,Serbia,Europe
+56,london,United Kingdom,Europe
+57,las-vegas,United States,North America
+58,brasov,Romania,Europe
+59,los-angeles,United States,North America
+60,ubud,Indonesia,Asia
+61,munich,Germany,Europe
+62,copenhagen,Denmark,Europe
+63,athens,Greece,Europe
+64,barcelona,Spain,Europe
+65,rio-de-janeiro,Brazil,Latin America
+66,lagos-algarve,Portugal,Europe
+67,new-york-city,United States,North America
+68,tallinn,Estonia,Europe
+69,ho-chi-minh-city,Vietnam,Asia
+70,denver,United States,North America
+71,vienna,Austria,Europe
+72,cancun,Mexico,Latin America
+73,washington,United States,North America
+74,boston,United States,North America
+75,kotor,Montenegro,Europe
+76,san-francisco,United States,North America
+77,wellington,New Zealand,Oceania
+78,amsterdam,Netherlands,Europe
+79,tampa,United States,North America
+80,thessaloniki,Greece,Europe
+81,coimbra,Portugal,Europe
+82,hamburg,Germany,Europe
+83,hong-kong,Hong Kong,Asia
+84,portland,United States,North America
+85,bansko,Bulgaria,Europe
+86,fuerteventura,Spain,Europe
+87,manila,Philippines,Asia
+88,vilnius,Lithuania,Europe
+89,plovdiv,Bulgaria,Europe
+90,portimao,Portugal,Europe
+91,dresden,Germany,Europe
+92,quebec-city,Canada,North America
+93,chicago,United States,North America
+94,johannesburg,South Africa,Africa
+95,davao,Philippines,Asia
+96,dallas,United States,North America
+97,taghazout,Morocco,Africa
+98,san-miguel-de-allende,Mexico,Latin America
+99,dubrovnik,Croatia,Europe
+100,quito,Ecuador,Latin America
+101,constanta,Romania,Europe
+102,tulum,Mexico,Latin America
+103,puerto-escondido,Mexico,Latin America
+104,lima,Peru,Latin America
+105,tucson,United States,North America
+106,brno,Czechia,Europe
+107,szczecin,Poland,Europe
+108,chatham,Canada,North America
+109,braga,Portugal,Europe
+110,azores,Portugal,Europe
+111,chisinau,Moldova,Europe
+112,havana,Cuba,Latin America
+113,el-gouna,Egypt,Middle East
+114,seville,Spain,Europe
+115,cebu,Philippines,Asia
+116,ottawa,Canada,North America
+117,willemstad,Curaçao,Latin America
+118,guanajuato,Mexico,Latin America
+119,shanghai,China,Asia
+120,queretaro,Mexico,Latin America
+121,minneapolis,United States,North America
+122,yangon,Myanmar,Asia
+123,ploiesti,Romania,Europe
+124,gdansk,Poland,Europe
+125,riga,Latvia,Europe
+126,jeju-island,South Korea,Asia
+127,seattle,United States,North America
+128,batumi,Georgia,Europe
+129,victoria,Canada,North America
+130,edmonton,Canada,North America
+131,cologne,Germany,Europe
+132,paris,France,Europe
+133,brussels,Belgium,Europe
+134,krabi,Thailand,Asia
+135,mumbai,India,Asia
+136,luang-prabang,Laos,Asia
+137,salt-lake-city,United States,North America
+138,varna,Bulgaria,Europe
+139,siem-reap,Cambodia,Asia
+140,sarajevo,Bosnia,Europe
+141,poznan,Poland,Europe
+142,skopje,North Macedonia,Europe
+143,tirana,Albania,Europe
+144,perth,Australia,Oceania
+145,aveiro,Portugal,Europe
+146,bratislava,Slovakia,Europe
+147,christchurch,New Zealand,Oceania
+148,hoi-an,Vietnam,Asia
+149,almaty,Kazakhstan,Asia
+150,porto-alegre,Brazil,Latin America
+151,leipzig,Germany,Europe
+152,suva,Fiji,Oceania
+153,phu-quoc,Vietnam,Asia
+154,guangzhou,China,Asia
+155,praia,Cape Verde,Africa
+156,katowice,Poland,Europe
+157,tokyo,Japan,Asia
+158,san-diego,United States,North America
+159,phnom-penh,Cambodia,Asia
+160,galapagos-islands,Ecuador,Latin America
+161,nairobi,Kenya,Africa
+162,palawan,Philippines,Asia
+163,orlando,United States,North America
+164,puerto-vallarta,Mexico,Latin America
+165,nis,Serbia,Europe
+166,lodz,Poland,Europe
+167,siargao,Philippines,Asia
+168,frankfurt,Germany,Europe
+169,dusseldorf,Germany,Europe
+170,lille,France,Europe
+171,new-orleans,United States,North America
+172,aberdeen,United Kingdom,Europe
+173,winnipeg,Canada,North America
+174,brampton,Canada,North America
+175,liverpool,United Kingdom,Europe
+176,senggigi,Indonesia,Asia
+177,lublin,Poland,Europe
+178,tartu,Estonia,Europe
+179,queenstown,New Zealand,Oceania
+180,asuncion,Paraguay,Latin America
+181,hyderabad,India,Asia
+182,port-elizabeth,South Africa,Africa
+183,paphos,Cyprus,Europe
+184,lake-balaton,Hungary,Europe
+185,newcastle-upon-tyne,United Kingdom,Europe
+186,osijek,Croatia,Europe
+187,pretoria,South Africa,Africa
+188,calgary,Canada,North America
+189,cuenca,Ecuador,Latin America
+190,marrakesh,Morocco,Africa
+191,monterrey,Mexico,Latin America
+192,sliema,Malta,Europe
+193,saskatoon,Canada,North America
+194,osaka,Japan,Asia
+195,regina,Canada,North America
+196,kansas-city,United States,North America
+197,vadodara,India,Asia
+198,fayetteville,United States,North America
+199,paramaribo,Suriname,Latin America
+200,haikou,China,Asia
+201,san-antonio,United States,North America
+202,palermo,Italy,Europe
+203,amman,Jordan,Middle East
+204,general-santos,Philippines,Asia
+205,adelaide,Australia,Oceania
+206,antigua,Guatemala,Latin America
+207,seminyak,Indonesia,Asia
+208,toulouse,France,Europe
+209,kota-kinabalu,Malaysia,Asia
+210,busan,South Korea,Asia
+211,mcallen,United States,North America
+212,jamshedpur,India,Asia
+213,rijeka,Croatia,Europe
+214,oaxaca,Mexico,Latin America
+215,kuching,Malaysia,Asia
+216,rotterdam,Netherlands,Europe
+217,winston,United States,North America
+218,ogden,United States,North America
+219,dhanbad,India,Asia
+220,columbus,United States,North America
+221,pattaya,Thailand,Asia
+222,reykjavik,Iceland,Europe
+223,faro,Portugal,Europe
+224,sioux-falls,United States,North America
+225,brisbane,Australia,Oceania
+226,beirut,Lebanon,Middle East
+227,nantes,France,Europe
+228,malmo,Sweden,Europe
+229,stuttgart,Germany,Europe
+230,baguio,Philippines,Asia
+231,ko-lanta,Thailand,Asia
+232,craiova,Romania,Europe
+233,goa,India,Asia
+234,salta,Argentina,Latin America
+235,manchester,United Kingdom,Europe
+236,munggu,Indonesia,Asia
+237,kathmandu,Nepal,Asia
+238,hua-hin,Thailand,Asia
+239,zadar,Croatia,Europe
+240,banja-luka,Bosnia,Europe
+241,surrey,Canada,North America
+242,leicester,United Kingdom,Europe
+243,cairns,Australia,Oceania
+244,la-union,Philippines,Asia
+245,kingsport,United States,North America
+246,montpellier,France,Europe
+247,kochi,India,Asia
+248,hilo,United States,Oceania
+249,la-plata,Argentina,Latin America
+250,birmingham,United Kingdom,Europe
+251,limassol,Cyprus,Europe
+252,gainesville,United States,North America
+253,guadalajara,Mexico,Latin America
+254,nuremberg,Germany,Europe
+255,eau-claire,United States,North America
+256,abbotsford,Canada,North America
+257,indianapolis,United States,North America
+258,fargo,United States,North America
+259,hull,United Kingdom,Europe
+260,santo-domingo,Dominican Republic,Latin America
+261,dunedin,New Zealand,Oceania
+262,mysore,India,Asia
+263,laredo,United States,North America
+264,beaumont,United States,North America
+265,naha,Japan,Asia
+266,pittsburgh,United States,North America
+267,cincinnati,United States,North America
+268,fukuoka,Japan,Asia
+269,kingston,Jamaica,Latin America
+270,nha-trang,Vietnam,Asia
+271,iasi,Romania,Europe
+272,chiang-rai,Thailand,Asia
+273,aachen,Germany,Europe
+274,rosario,Argentina,Latin America
+275,mallorca,Spain,Europe
+276,chittagong,Bangladesh,Asia
+277,cusco,Peru,Latin America
+278,roanoke,United States,North America
+279,oklahoma-city,United States,North America
+280,tangier,Morocco,Africa
+281,kokomo,United States,North America
+282,grande-prairie,Canada,North America
+283,conroe,United States,North America
+284,antwerp,Belgium,Europe
+285,fredericton,Canada,North America
+286,gothenburg,Sweden,Europe
+287,phoenix,United States,North America
+288,mamaia,Romania,Europe
+289,alicante,Spain,Europe
+290,pai,Thailand,Asia
+291,salvador,Brazil,Latin America
+292,merida,Mexico,Latin America
+293,halifax,Canada,North America
+294,evansville,United States,North America
+295,el-jadida,Morocco,Africa
+296,charlotte,United States,North America
+297,groningen,Netherlands,Europe
+298,minot,United States,North America
+299,brownsville,United States,North America
+300,amarillo,United States,North America
+301,las-cruces,United States,North America
+302,podgorica,Montenegro,Europe
+303,richmond,United States,North America
+304,hagen,Germany,Europe
+305,bordeaux,France,Europe
+306,ushuaia,Argentina,Latin America
+307,oshawa,Canada,North America
+308,little-rock,United States,North America
+309,graz,Austria,Europe
+310,chico,United States,North America
+311,mostar,Bosnia,Europe
+312,waterloo-ia,United States,North America
+313,arequipa,Peru,Latin America
+314,apia,Samoa,Oceania
+315,mobile,United States,North America
+316,sumperk,Czechia,Europe
+317,fortaleza,Brazil,Latin America
+318,malaga,Spain,Europe
+319,casper,United States,North America
+320,ranchi,India,Asia
+321,gaziantep,Turkey,Europe
+322,adana,Turkey,Europe
+323,houston,United States,North America
+324,georgetown,Guyana,Latin America
+325,surabaya,Indonesia,Asia
+326,nakhon-ratchasima,Thailand,Asia
+327,jena,Germany,Europe
+328,kitchener,Canada,North America
+329,kaohsiung,Taiwan,Asia
+330,shenzhen,China,Asia
+331,recife,Brazil,Latin America
+332,greensboro,United States,North America
+333,pharr,United States,North America
+334,bakersfield,United States,North America
+335,montgomery,United States,North America
+336,zurich,Switzerland,Europe
+337,macau,China,Asia
+338,karlsruhe,Germany,Europe
+339,tulsa,United States,North America
+340,lawton,United States,North America
+341,cartagena,Colombia,Latin America
+342,raleigh,United States,North America
+343,hanoi,Vietnam,Asia
+344,visalia,United States,North America
+345,izmir,Turkey,Europe
+346,toledo,United States,North America
+347,guelph,Canada,North America
+348,edinburg,United States,North America
+349,boracay,Philippines,Asia
+350,ankara,Turkey,Europe
+351,helsinki,Finland,Europe
+352,lyon,France,Europe
+353,salem,United States,North America
+354,moncton,Canada,North America
+355,javea,Spain,Europe
+356,port-arthur,United States,North America
+357,changzhou,China,Asia
+358,san-pedro-de-atacama,Chile,Latin America
+359,beacon,United States,North America
+360,pokhara,Nepal,Asia
+361,valdosta,United States,North America
+362,rocky-mount,United States,North America
+363,huddersfield,United Kingdom,Europe
+364,columbus-ga,United States,North America
+365,nashville,United States,North America
+366,rzeszow,Poland,Europe
+367,syracuse,United States,North America
+368,sacramento,United States,North America
+369,youngstown,United States,North America
+370,augusta,United States,North America
+371,tyler,United States,North America
+372,tijuana,Mexico,Latin America
+373,bristol,United Kingdom,Europe
+374,detroit,United States,North America
+375,da-lat,Vietnam,Asia
+376,bremen,Germany,Europe
+377,semarang,Indonesia,Asia
+378,makati,Philippines,Asia
+379,brasilia,Brazil,Latin America
+380,varanasi,India,Asia
+381,thiruvananthapuram,India,Asia
+382,bismarck,United States,North America
+383,montego-bay,Jamaica,Latin America
+384,victoria-tx,United States,North America
+385,rochester,United States,North America
+386,alanya,Turkey,Europe
+387,oakland,United States,North America
+388,terre-haute,United States,North America
+389,great-falls,United States,North America
+390,fort-wayne,United States,North America
+391,rishikesh,India,Asia
+392,wichita,United States,North America
+393,langkawi,Malaysia,Asia
+394,chengdu,China,Asia
+395,richland,United States,North America
+396,dubai,United Arab Emirates,Middle East
+397,kosice,Slovakia,Europe
+398,gori,Georgia,Europe
+399,porterville,United States,North America
+400,pekanbaru,Indonesia,Asia
+401,curitiba,Brazil,Latin America
+402,allahabad,India,Asia
+403,espoo,Finland,Europe
+404,clarksville,United States,North America
+405,montevideo,Uruguay,Latin America
+406,hobart,Australia,Oceania
+407,owensboro,United States,North America
+408,fresno,United States,North America
+409,windsor,Canada,North America
+410,port-louis,Mauritius,Africa
+411,sandpoint,United States,North America
+412,cork,Ireland,Europe
+413,pune,India,Asia
+414,merced,United States,North America
+415,sa-pa,Vietnam,Asia
+416,pocatello,United States,North America
+417,boise,United States,North America
+418,delano,United States,North America
+419,lubbock,United States,North America
+420,north-little-rock,United States,North America
+421,natal,Brazil,Latin America
+422,lancaster,United States,North America
+423,montreal,Canada,North America
+424,fes,Morocco,Africa
+425,bogota,Colombia,Latin America
+426,tainan,Taiwan,Asia
+427,palm-coast,United States,North America
+428,colombo,Sri Lanka,Asia
+429,hof,Germany,Europe
+430,burgas,Bulgaria,Europe
+431,bar,Montenegro,Europe
+432,huizhou,China,Asia
+433,guiyang,China,Asia
+434,dongguan,China,Asia
+435,windhoek,Namibia,Africa
+436,rennes,France,Europe
+437,belem,Brazil,Latin America
+438,amed,Indonesia,Asia
+439,genoa,Italy,Europe
+440,madurai,India,Asia
+441,utrecht,Netherlands,Europe
+442,malacca,Malaysia,Asia
+443,cavtat,Croatia,Europe
+444,pisa,Italy,Europe
+445,ipoh,Malaysia,Asia
+446,wollongong,Australia,Oceania
+447,kunming,China,Asia
+448,ghent,Belgium,Europe
+449,johor-bahru,Malaysia,Asia
+450,stockton,United States,North America
+451,peoria,United States,North America
+452,kaunas,Lithuania,Europe
+453,lake-tahoe,United States,North America
+454,bologna,Italy,Europe
+455,makassar,Indonesia,Asia
+456,green-bay,United States,North America
+457,santiago,Chile,Latin America
+458,bath,United Kingdom,Europe
+459,victorville,United States,North America
+460,scranton,United States,North America
+461,billings,United States,North America
+462,harare,Zimbabwe,Africa
+463,dothan,United States,North America
+464,jacksonville,United States,North America
+465,tulare,United States,North America
+466,conway,United States,North America
+467,oregon-city,United States,North America
+468,schenectady,United States,North America
+469,grenoble,France,Europe
+470,okinawa-city,Japan,Asia
+471,tehran,Iran,Middle East
+472,kampala,Uganda,Africa
+473,st-catharines,Canada,North America
+474,cixi,China,Asia
+475,bandar-seri-begawan,Brunei,Asia
+476,palmdale,United States,North America
+477,tel-aviv,Israel,Middle East
+478,edinburgh,United Kingdom,Europe
+479,flint,United States,North America
+480,cordoba,Argentina,Latin America
+481,ko-chang,Thailand,Asia
+482,lake-charles,United States,North America
+483,st-george,United States,North America
+484,bielefeld,Germany,Europe
+485,campinas,Brazil,Latin America
+486,longview,United States,North America
+487,grand-junction,United States,North America
+488,luanda,Angola,Africa
+489,jakarta,Indonesia,Asia
+490,muncie,United States,North America
+491,belo-horizonte,Brazil,Latin America
+492,greenville,United States,North America
+493,bocas-del-toro,Panama,Latin America
+494,hue,Vietnam,Asia
+495,norwich,United Kingdom,Europe
+496,jiangmen,China,Asia
+497,kennewick,United States,North America
+498,mui-ne,Vietnam,Asia
+499,bedford,United States,North America
+500,harlingen,United States,North America
+501,manama,Bahrain,Middle East
+502,benin-city,Nigeria,Africa
+503,turku,Finland,Europe
+504,northampton,United Kingdom,Europe
+505,grand-forks,United States,North America
+506,antananarivo,Madagascar,Africa
+507,bloomington,United States,North America
+508,vasai,India,Asia
+509,st-joseph,United States,North America
+510,jonesboro,United States,North America
+511,gili-air,Indonesia,Asia
+512,apple-valley,United States,North America
+513,fort-lauderdale,United States,North America
+514,philadelphia,United States,North America
+515,udon-thani,Thailand,Asia
+516,reading-pa,United States,North America
+517,brazzaville,Congo,Africa
+518,torshavn,Denmark,Europe
+519,dublin,Ireland,Europe
+520,thane,India,Asia
+521,springdale,United States,North America
+522,moradabad,India,Asia
+523,guwahati,India,Asia
+524,tunis,Tunisia,Africa
+525,enterprise,United States,North America
+526,killeen,United States,North America
+527,chania,Greece,Europe
+528,jyvaskyla,Finland,Europe
+529,temple,United States,North America
+530,glasgow,United Kingdom,Europe
+531,marbella,Spain,Europe
+532,new-haven,United States,North America
+533,menorca,Spain,Europe
+534,hermosillo,Mexico,Latin America
+535,mar-del-plata,Argentina,Latin America
+536,la-serena,Chile,Latin America
+537,budva,Montenegro,Europe
+538,columbia,United States,North America
+539,dortmund,Germany,Europe
+540,gwangju,South Korea,Asia
+541,agra,India,Asia
+542,elkhart,United States,North America
+543,rhodes,Greece,Europe
+544,baku,Azerbaijan,Europe
+545,alexandria,Egypt,Middle East
+546,galle,Sri Lanka,Asia
+547,ibadan,Nigeria,Africa
+548,birmingham-al,United States,North America
+549,san-jose,United States,North America
+550,kigali,Rwanda,Africa
+551,astana,Kazakhstan,Asia
+552,dayton,United States,North America
+553,huaian,China,Asia
+554,waterloo,Canada,North America
+555,bareilly,India,Asia
+556,durban,South Africa,Africa
+557,chifeng,China,Asia
+558,santa-cruz,Bolivia,Latin America
+559,casablanca,Morocco,Africa
+560,medford,United States,North America
+561,campo-grande,Brazil,Latin America
+562,mataram,Indonesia,Asia
+563,bhubaneswar,India,Asia
+564,mission,United States,North America
+565,iquique,Chile,Latin America
+566,suwon,South Korea,Asia
+567,luxor,Egypt,Middle East
+568,madison,United States,North America
+569,logan,United States,North America
+570,norfolk,United States,North America
+571,leiden,Netherlands,Europe
+572,auburn,United States,North America
+573,asheville,United States,North America
+574,freetown,Sierra Leone,Africa
+575,yakima,United States,North America
+576,bursa,Turkey,Europe
+577,cabo-san-lucas,Mexico,Latin America
+578,bari,Italy,Europe
+579,lubumbashi,DR Congo,Africa
+580,san-cristobal-de-las-casas,Mexico,Latin America
+581,fairfield,United States,North America
+582,itapema,Brazil,Latin America
+583,oulu,Finland,Europe
+584,pristina,Kosovo,Europe
+585,aguascalientes,Mexico,Latin America
+586,bowling-green,United States,North America
+587,hohhot,China,Asia
+588,daegu,South Korea,Asia
+589,redding,United States,North America
+590,oxford,United Kingdom,Europe
+591,jacksonville-nc,United States,North America
+592,fort-smith,United States,North America
+593,louisville,United States,North America
+594,jodhpur,India,Asia
+595,wanaka,New Zealand,Oceania
+596,bishkek,Kyrgyzstan,Asia
+597,melbourne-fl,United States,North America
+598,ann-arbor,United States,North America
+599,zwolle,Netherlands,Europe
+600,sao-luis,Brazil,Latin America
+601,bethlehem,United States,North America
+602,ocala,United States,North America
+603,rochester-mn,United States,North America
+604,greeley,United States,North America
+605,hubli,India,Asia
+606,turlock,United States,North America
+607,almere,Netherlands,Europe
+608,amritsar,India,Asia
+609,fuzhou,China,Asia
+610,florence,Italy,Europe
+611,panama-city,Panama,Latin America
+612,kano,Nigeria,Africa
+613,allentown,United States,North America
+614,gwalior,India,Asia
+615,sao-jose-dos-campos,Brazil,Latin America
+616,nijmegen,Netherlands,Europe
+617,bloomington-il,United States,North America
+618,johnson-city,United States,North America
+619,iowa-city,United States,North America
+620,sorocaba,Brazil,Latin America
+621,ao-nang,Thailand,Asia
+622,yuba-city,United States,North America
+623,abuja,Nigeria,Africa
+624,arugam-bay,Sri Lanka,Asia
+625,thrissur,India,Asia
+626,bradenton,United States,North America
+627,jiamusi,China,Asia
+628,nukualofa,Tonga,Oceania
+629,durg,India,Asia
+630,larnaca,Cyprus,Europe
+631,asansol,India,Asia
+632,champaign,United States,North America
+633,novocherkassk,Russia,Europe
+634,la-paz,Bolivia,Latin America
+635,kannur,India,Asia
+636,tracy,United States,North America
+637,kalyan,India,Asia
+638,lanzarote,Spain,Europe
+639,des-moines,United States,North America
+640,college-station,United States,North America
+641,galway,Ireland,Europe
+642,baltimore,United States,North America
+643,cirebon,Indonesia,Asia
+644,aurora,United States,North America
+645,normal,United States,North America
+646,cochabamba,Bolivia,Latin America
+647,intag-valley,Ecuador,Latin America
+648,colorado-springs,United States,North America
+649,cleveland,United States,North America
+650,ko-phi-phi,Thailand,Asia
+651,erie,United States,North America
+652,kitakyushu,Japan,Asia
+653,changchun,China,Asia
+654,santa-maria,United States,North America
+655,huaibei,China,Asia
+656,enid,United States,North America
+657,nagasaki,Japan,Asia
+658,riverside,United States,North America
+659,khulna,Bangladesh,Asia
+660,medan,Indonesia,Asia
+661,goiania,Brazil,Latin America
+662,srinagar,India,Asia
+663,kandy,Sri Lanka,Asia
+664,leeds,United Kingdom,Europe
+665,ashland,United States,North America
+666,hvar,Croatia,Europe
+667,lethbridge,Canada,North America
+668,lafayette,United States,North America
+669,lianyungang,China,Asia
+670,agadir,Morocco,Africa
+671,vijayawada,India,Asia
+672,montanita,Ecuador,Latin America
+673,salzburg,Austria,Europe
+674,modesto,United States,North America
+675,utica,United States,North America
+676,kyoto,Japan,Asia
+677,manteca,United States,North America
+678,appleton,United States,North America
+679,lusaka,Zambia,Africa
+680,aalborg,Denmark,Europe
+681,providence,United States,North America
+682,bryan,United States,North America
+683,tsushima-island,Japan,Asia
+684,malappuram,India,Asia
+685,mombasa,Kenya,Africa
+686,visakhapatnam,India,Asia
+687,springfield,United States,North America
+688,henderson,United States,North America
+689,bossier-city,United States,North America
+690,banjul,Gambia,Africa
+691,st-louis,United States,North America
+692,kozhikode,India,Asia
+693,naples,Italy,Europe
+694,ko-lipe,Thailand,Asia
+695,shantou,China,Asia
+696,southampton,United Kingdom,Europe
+697,baotou,China,Asia
+698,jilin,China,Asia
+699,hesperia,United States,North America
+700,raipur,India,Asia
+701,hagatna,Guam,Oceania
+702,quanzhou,China,Asia
+703,olympia,United States,North America
+704,palm-bay,United States,North America
+705,lynchburg,United States,North America
+706,port-harcourt,Nigeria,Africa
+707,decatur,United States,North America
+708,kunshan,China,Asia
+709,tirupur,India,Asia
+710,kolkata,India,Asia
+711,grand-rapids,United States,North America
+712,portsmouth,United Kingdom,Europe
+713,el-alto,Bolivia,Latin America
+714,davenport,United States,North America
+715,trento,Italy,Europe
+716,nanaimo,Canada,North America
+717,trier,Germany,Europe
+718,bellingham,United States,North America
+719,wenling,China,Asia
+720,joplin,United States,North America
+721,taizhou,China,Asia
+722,kollam,India,Asia
+723,cedar-rapids,United States,North America
+724,bridgeton,United States,North America
+725,puebla,Mexico,Latin America
+726,trieste,Italy,Europe
+727,huntsville,United States,North America
+728,nashik,India,Asia
+729,isla-mujeres,Mexico,Latin America
+730,geneva,Switzerland,Europe
+731,andorra-la-vella,Andorra,Europe
+732,conakry,Guinea,Africa
+733,nicosia,Cyprus,Europe
+734,dahab,Egypt,Middle East
+735,shiraz,Iran,Middle East
+736,high-point,United States,North America
+737,puning,China,Asia
+738,pasco,United States,North America
+739,vitoria,Brazil,Latin America
+740,cambridge,United Kingdom,Europe
+741,nanjing,China,Asia
+742,sochi,Russia,Europe
+743,rabat,Morocco,Africa
+744,bandung,Indonesia,Asia
+745,zhongshan,China,Asia
+746,st-cloud,United States,North America
+747,nottingham,United Kingdom,Europe
+748,lelystad,Netherlands,Europe
+749,zunyi,China,Asia
+750,taiyuan,China,Asia
+751,qingdao,China,Asia
+752,lansing,United States,North America
+753,strasbourg,France,Europe
+754,chongqing,China,Asia
+755,joao-pessoa,Brazil,Latin America
+756,barrie,Canada,North America
+757,jackson,United States,North America
+758,mbuji-mayi,DR Congo,Africa
+759,rockford,United States,North America
+760,algiers,Algeria,Africa
+761,la-crosse,United States,North America
+762,a-coruna,Spain,Europe
+763,beijing,China,Asia
+764,burlington,United States,North America
+765,bucaramanga,Colombia,Latin America
+766,york,United Kingdom,Europe
+767,matara,Sri Lanka,Asia
+768,tashkent,Uzbekistan,Asia
+769,avellino,Italy,Europe
+770,hannover,Germany,Europe
+771,yiwu,China,Asia
+772,shreveport,United States,North America
+773,the-hague,Netherlands,Europe
+774,konya,Turkey,Europe
+775,san-luis-potosi,Mexico,Latin America
+776,breda,Netherlands,Europe
+777,pasto,Colombia,Latin America
+778,port-of-spain,Trinidad and Tobago,Latin America
+779,patna,India,Asia
+780,campos-dos-goytacazes,Brazil,Latin America
+781,granada,Spain,Europe
+782,rogers,United States,North America
+783,oran,Algeria,Africa
+784,oslo,Norway,Europe
+785,treviso,Italy,Europe
+786,hemet,United States,North America
+787,coventry,United Kingdom,Europe
+788,reading,United Kingdom,Europe
+789,chamonix,France,Europe
+790,cozumel,Mexico,Latin America
+791,waco,United States,North America
+792,bournemouth,United Kingdom,Europe
+793,fort-mcmurray,Canada,North America
+794,changshu,China,Asia
+795,leuven,Belgium,Europe
+796,guayaquil,Ecuador,Latin America
+797,antofagasta,Chile,Latin America
+798,dalian,China,Asia
+799,santa-fe,United States,North America
+800,heidelberg,Germany,Europe
+801,darmstadt,Germany,Europe
+802,san-salvador,El Salvador,Latin America
+803,virginia-beach,United States,North America
+804,sihanoukville,Cambodia,Asia
+805,ningbo,China,Asia
+806,suzhou,China,Asia
+807,nagoya,Japan,Asia
+808,zhangzhou,China,Asia
+809,corpus-christi,United States,North America
+810,surat,India,Asia
+811,jundiai,Brazil,Latin America
+812,rovaniemi,Finland,Europe
+813,oranjestad,Aruba,Latin America
+814,dili,East Timor,Asia
+815,maseru,Lesotho,Africa
+816,provo,United States,North America
+817,albany,United States,North America
+818,foshan,China,Asia
+819,taos,United States,North America
+820,delhi,India,Asia
+821,toluca,Mexico,Latin America
+822,klaipeda,Lithuania,Europe
+823,guatemala-city,Guatemala,Latin America
+824,chennai,India,Asia
+825,ulaanbaatar,Mongolia,Asia
+826,uberlandia,Brazil,Latin America
+827,harrisonburg,United States,North America
+828,pamplona,Spain,Europe
+829,ouagadougou,Burkina Faso,Africa
+830,zhangjiakou,China,Asia
+831,mendoza,Argentina,Latin America
+832,uluwatu,Indonesia,Asia
+833,elgin,United States,North America
+834,carson-city,United States,North America
+835,padova,Italy,Europe
+836,meerut,India,Asia
+837,san-juan,Puerto Rico,Latin America
+838,lome,Togo,Africa
+839,coimbatore,India,Asia
+840,palembang,Indonesia,Asia
+841,luton,United Kingdom,Europe
+842,kumasi,Ghana,Africa
+843,innsbruck,Austria,Europe
+844,battle-creek,United States,North America
+845,hefei,China,Asia
+846,mandalay,Myanmar,Asia
+847,chachapoyas,Peru,Latin America
+848,huambo,Angola,Africa
+849,marysville,United States,North America
+850,gaborone,Botswana,Africa
+851,kananga,DR Congo,Africa
+852,kassel,Germany,Europe
+853,guilin,China,Asia
+854,kagoshima,Japan,Asia
+855,boumerdas,Algeria,Africa
+856,patras,Greece,Europe
+857,mancora,Peru,Latin America
+858,mashhad,Iran,Middle East
+859,janesville,United States,North America
+860,spokane-valley,United States,North America
+861,manchester-nh,United States,North America
+862,taichung,Taiwan,Asia
+863,san-sebastian,Spain,Europe
+864,wuxi,China,Asia
+865,wichita-falls,United States,North America
+866,barranquilla,Colombia,Latin America
+867,varkala,India,Asia
+868,zhuhai,China,Asia
+869,huainan,China,Asia
+870,baton-rouge,United States,North America
+871,brighton,United Kingdom,Europe
+872,indore,India,Asia
+873,zhangjiagang,China,Asia
+874,tilburg,Netherlands,Europe
+875,topeka,United States,North America
+876,chattanooga,United States,North America
+877,shenyang,China,Asia
+878,kinmen,Taiwan,Asia
+879,manaus,Brazil,Latin America
+880,abidjan,Cote d'Ivoire,Africa
+881,zhanjiang,China,Asia
+882,bridgeport,United States,North America
+883,idaho-falls,United States,North America
+884,rome,Italy,Europe
+885,bern,Switzerland,Europe
+886,naypyidaw,Myanmar,Asia
+887,jarabacoa,Dominican Republic,Latin America
+888,rajkot,India,Asia
+889,exeter,United Kingdom,Europe
+890,flagstaff,United States,North America
+891,fushun,China,Asia
+892,homs,Syria,Middle East
+893,daytona-beach,United States,North America
+894,volgograd,Russia,Europe
+895,joliet,United States,North America
+896,sanur,Indonesia,Asia
+897,xining,China,Asia
+898,valparaiso,Chile,Latin America
+899,casa-grande,United States,North America
+900,midland,United States,North America
+901,anderson,United States,North America
+902,cairo,Egypt,Middle East
+903,shaoxing,China,Asia
+904,putian,China,Asia
+905,livingstone,Zambia,Africa
+906,cheyenne,United States,North America
+907,tarifa,Spain,Europe
+908,hartford,United States,North America
+909,soweto,South Africa,Africa
+910,santa-barbara,United States,North America
+911,qinhuangdao,China,Asia
+912,modena,Italy,Europe
+913,essaouira,Morocco,Africa
+914,aarhus,Denmark,Europe
+915,qiqihar,China,Asia
+916,yokohama,Japan,Asia
+917,torreon,Mexico,Latin America
+918,juba,South Sudan,Africa
+919,arnhem,Netherlands,Europe
+920,sendai,Japan,Asia
+921,mcleod-ganj,India,Asia
+922,tebessa,Algeria,Africa
+923,onitsha,Nigeria,Africa
+924,douala,Cameroon,Africa
+925,cape-coral,United States,North America
+926,annecy,France,Europe
+927,cheltenham,United Kingdom,Europe
+928,port-st-lucie,United States,North America
+929,pyongyang,North Korea,Asia
+930,dijon,France,Europe
+931,pueblo,United States,North America
+932,bergen,Norway,Europe
+933,lincoln,United States,North America
+934,brentwood,United States,North America
+935,scottsdale,United States,North America
+936,tabriz,Iran,Middle East
+937,dededo,Guam,Oceania
+938,kamiyama,Japan,Asia
+939,ruian,China,Asia
+940,rimini,Italy,Europe
+941,fort-myers,United States,North America
+942,kearney,United States,North America
+943,murrieta,United States,North America
+944,lucknow,India,Asia
+945,nago,Japan,Asia
+946,jimbaran,Indonesia,Asia
+947,deventer,Netherlands,Europe
+948,belfast,United Kingdom,Europe
+949,kirkuk,Kurdistan,Middle East
+950,fairfax,United States,North America
+951,vina-del-mar,Chile,Latin America
+952,stamford,United States,North America
+953,harbin,China,Asia
+954,nuuk,Greenland,North America
+955,wonsan,North Korea,Asia
+956,lake-como,Italy,Europe
+957,tampere,Finland,Europe
+958,juarez,Mexico,Latin America
+959,tripoli,Libya,Africa
+960,avignon,France,Europe
+961,spokane,United States,North America
+962,santa-marta,Colombia,Latin America
+963,sioux-city,United States,North America
+964,yuma,United States,North America
+965,aligarh,India,Asia
+966,whistler,Canada,North America
+967,okayama,Japan,Asia
+968,milwaukee,United States,North America
+969,nashua,United States,North America
+970,hoover,United States,North America
+971,lilongwe,Malawi,Africa
+972,kelowna,Canada,North America
+973,trondheim,Norway,Europe
+974,gold-coast,Australia,Oceania
+975,bhopal,India,Asia
+976,aleppo,Syria,Middle East
+977,canberra,Australia,Oceania
+978,caracas,Venezuela,Latin America
+979,liuzhou,China,Asia
+980,tallahassee,United States,North America
+981,lanzhou,China,Asia
+982,lodi,United States,North America
+983,niamey,Niger,Africa
+984,erlangen,Germany,Europe
+985,minca,Colombia,Latin America
+986,male,Maldives,Asia
+987,giza,Egypt,Middle East
+988,stanley,Falkland Islands,Latin America
+989,sayulita,Mexico,Latin America
+990,marseille,France,Europe
+991,sapporo,Japan,Asia
+992,maracay,Venezuela,Latin America
+993,xiamen,China,Asia
+994,hangzhou,China,Asia
+995,omaha,United States,North America
+996,bruges,Belgium,Europe
+997,vientiane,Laos,Asia
+998,kisangani,DR Congo,Africa
+999,yamoussoukro,Cote d'Ivoire,Africa
+1000,texel,Netherlands,Europe
+1001,bozeman,United States,North America
+1002,noida,India,Asia
+1003,dubuque,United States,North America
+1004,reno,United States,North America
+1005,mexicali,Mexico,Latin America
+1006,cardiff,United Kingdom,Europe
+1007,boulder,United States,North America
+1008,yaounde,Cameroon,Africa
+1009,jamestown,Saint Helena,Africa
+1010,nantong,China,Asia
+1011,dar-es-salaam,Tanzania,Africa
+1012,malang,Indonesia,Asia
+1013,wenzhou,China,Asia
+1014,panajachel,Guatemala,Latin America
+1015,denpasar,Indonesia,Asia
+1016,nouakchott,Mauritania,Africa
+1017,rethymno,Greece,Europe
+1018,port-au-prince,Haiti,Latin America
+1019,weston,United States,North America
+1020,yangshuo,China,Asia
+1021,centennial,United States,North America
+1022,abu-dhabi,United Arab Emirates,Middle East
+1023,nagpur,India,Asia
+1024,jaipur,India,Asia
+1025,eugene,United States,North America
+1026,kauai,United States,Oceania
+1027,venice,Italy,Europe
+1028,macon,United States,North America
+1029,eindhoven,Netherlands,Europe
+1030,caye-caulker,Belize,Latin America
+1031,hiroshima,Japan,Asia
+1032,tromso,Norway,Europe
+1033,buffalo,United States,North America
+1034,park-city,United States,North America
+1035,nanning,China,Asia
+1036,maracaibo,Venezuela,Latin America
+1037,worcester,United States,North America
+1038,huzhou,China,Asia
+1039,rouen,France,Europe
+1040,addis-ababa,Ethiopia,Africa
+1041,albuquerque,United States,North America
+1042,bodrum,Turkey,Europe
+1043,tanchon,North Korea,Asia
+1044,maputo,Mozambique,Africa
+1045,santa-rosa,United States,North America
+1046,sulaymaniyah,Kurdistan,Middle East
+1047,cannes,France,Europe
+1048,milan,Italy,Europe
+1049,kaduna,Nigeria,Africa
+1050,sarasota,United States,North America
+1051,qom,Iran,Middle East
+1052,ahmedabad,India,Asia
+1053,beaverton,United States,North America
+1054,duhok,Kurdistan,Middle East
+1055,santorini,Greece,Europe
+1056,bridgetown,Barbados,Latin America
+1057,avarua,Cook Islands,Oceania
+1058,xi-an,China,Asia
+1059,warner-robins,United States,North America
+1060,lake-havasu-city,United States,North America
+1061,odessa-tx,United States,North America
+1062,punta-cana,Dominican Republic,Latin America
+1063,hama,Syria,Middle East
+1064,shrewsbury,United Kingdom,Europe
+1065,galveston,United States,North America
+1066,kanpur,India,Asia
+1067,temecula,United States,North America
+1068,datong,China,Asia
+1069,scheveningen,Netherlands,Europe
+1070,wuhu,China,Asia
+1071,lexington,United States,North America
+1072,san-ignacio,Belize,Latin America
+1073,yogyakarta,Indonesia,Asia
+1074,ramallah,Palestine,Middle East
+1075,nanchang,China,Asia
+1076,surakarta,Indonesia,Asia
+1077,vang-vieng,Laos,Asia
+1078,punta-del-este,Uruguay,Latin America
+1079,lawrence,United States,North America
+1080,zhoukou,China,Asia
+1081,charleston,United States,North America
+1082,gurgaon,India,Asia
+1083,funafuti,Tuvalu,Oceania
+1084,sheffield,United Kingdom,Europe
+1085,bend,United States,North America
+1086,anapolis,Brazil,Latin America
+1087,jabalpur,India,Asia
+1088,asmara,Eritrea,Africa
+1089,laayoune,Western Sahara,Africa
+1090,honiara,Solomon Islands,Oceania
+1091,carlsbad,United States,North America
+1092,kaechon,North Korea,Asia
+1093,palo-alto,United States,North America
+1094,port-said,Egypt,Middle East
+1095,wuhan,China,Asia
+1096,bamako,Mali,Africa
+1097,kobe,Japan,Asia
+1098,san-clemente,United States,North America
+1099,siena,Italy,Europe
+1100,byron-bay,Australia,Oceania
+1101,linyi,China,Asia
+1102,ludhiana,India,Asia
+1103,nice,France,Europe
+1104,newport-beach,United States,North America
+1105,manhattan,United States,North America
+1106,anchorage,United States,North America
+1107,west-palm-beach,United States,North America
+1108,kota,India,Asia
+1109,cagliari,Italy,Europe
+1110,oxnard,United States,North America
+1111,tianjin,China,Asia
+1112,abilene,United States,North America
+1113,mountain-view,United States,North America
+1114,anshan,China,Asia
+1115,dorobo,Japan,Asia
+1116,sinuiju,North Korea,Asia
+1117,princeton,United States,North America
+1118,st-johns,Antigua and Barbuda,Latin America
+1119,sanaa,Yemen,Middle East
+1120,amalfi,Italy,Europe
+1121,grand-island,United States,North America
+1122,key-west,United States,North America
+1123,waukegan,United States,North America
+1124,weihai,China,Asia
+1125,wilmington,United States,North America
+1126,pensacola,United States,North America
+1127,yinchuan,China,Asia
+1128,duluth,United States,North America
+1129,frederick,United States,North America
+1130,dongying,China,Asia
+1131,ube,Japan,Asia
+1132,ibiza,Spain,Europe
+1133,memphis,United States,North America
+1134,xuzhou,China,Asia
+1135,gibraltar,Gibraltar,Europe
+1136,dhaka,Bangladesh,Asia
+1137,rapid-city,United States,North America
+1138,fort-collins,United States,North America
+1139,verona,Italy,Europe
+1140,helena,United States,North America
+1141,kinshasa,DR Congo,Africa
+1142,portland-me,United States,North America
+1143,nanyang,China,Asia
+1144,zhengzhou,China,Asia
+1145,bilbao,Spain,Europe
+1146,belize-city,Belize,Latin America
+1147,menlo-park,United States,North America
+1148,ithaca,United States,North America
+1149,monterey,United States,North America
+1150,savannah,United States,North America
+1151,karachi,Pakistan,Asia
+1152,aurangabad,India,Asia
+1153,mosul,Iraq,Middle East
+1154,basse-terre,Guadeloupe,Latin America
+1155,san-juan-del-sur,Nicaragua,Latin America
+1156,oceanside,United States,North America
+1157,coeur-dalene,United States,North America
+1158,accra,Ghana,Africa
+1159,vista,United States,North America
+1160,chandigarh,India,Asia
+1161,corvallis,United States,North America
+1162,alesund,Norway,Europe
+1163,san-mateo,United States,North America
+1164,saint-helier,Jersey,Europe
+1165,tengzhou,China,Asia
+1166,dammam,Saudi Arabia,Middle East
+1167,monaco,Monaco,Europe
+1168,salento,Colombia,Latin America
+1169,vineland,United States,North America
+1170,kaesong,North Korea,Asia
+1171,basel,Switzerland,Europe
+1172,port-orange,United States,North America
+1173,kuta,Indonesia,Asia
+1174,darwin,Australia,Oceania
+1175,medina,Saudi Arabia,Middle East
+1176,biarritz,France,Europe
+1177,haarlem,Netherlands,Europe
+1178,luoyang,China,Asia
+1179,banff,Canada,North America
+1180,nassau,The Bahamas,Latin America
+1181,indio,United States,North America
+1182,quetta,Pakistan,Asia
+1183,jerusalem,Israel,Middle East
+1184,luxembourg,Luxembourg,Europe
+1185,dushanbe,Tajikistan,Asia
+1186,cody,United States,North America
+1187,petaluma,United States,North America
+1188,leeuwarden,Netherlands,Europe
+1189,jiaxing,China,Asia
+1190,sparks,United States,North America
+1191,libreville,Gabon,Africa
+1192,road-town,British Virgin Islands,Latin America
+1193,plantation,United States,North America
+1194,bonita-springs,United States,North America
+1195,verdi,United States,North America
+1196,urumqi,China,Asia
+1197,missoula,United States,North America
+1198,incline-village,United States,North America
+1199,shijiazhuang,China,Asia
+1200,doha,Qatar,Middle East
+1201,knoxville,United States,North America
+1202,cali,Colombia,Latin America
+1203,port-vila,Vanuatu,Oceania
+1204,zhucheng,China,Asia
+1205,zhuzhou,China,Asia
+1206,jinan,China,Asia
+1207,napa,United States,North America
+1208,salem-ma,United States,North America
+1209,xiangyang,China,Asia
+1210,monza,Italy,Europe
+1211,lagos,Nigeria,Africa
+1212,george-town,Cayman Islands,Latin America
+1213,ferrara,Italy,Europe
+1214,puerto-viejo,Costa Rica,Latin America
+1215,baoding,China,Asia
+1216,canton,United States,North America
+1217,oshkosh,United States,North America
+1218,mogadishu,Somalia,Africa
+1219,amundsen-scott,Antarctica,Antarctica
+1220,mcmurdo-station,Antarctica,Antarctica
+1221,chongjin,North Korea,Asia
+1222,sharjah,United Arab Emirates,Middle East
+1223,zandvoort,Netherlands,Europe
+1224,arendal,Norway,Europe
+1225,gulfport,United States,North America
+1226,erbil,Kurdistan,Middle East
+1227,hamhung,North Korea,Asia
+1228,turin,Italy,Europe
+1229,tuscaloosa,United States,North America
+1230,hamilton,Bermuda,Latin America
+1231,philipsburg,Sint Maarten,Latin America
+1232,baghdad,Iraq,Middle East
+1233,isfahan,Iran,Middle East
+1234,lucca,Italy,Europe
+1235,lausanne,Switzerland,Europe
+1236,lahore,Pakistan,Asia
+1237,muscat,Oman,Middle East
+1238,weifang,China,Asia
+1239,san-angelo,United States,North America
+1240,lugano,Switzerland,Europe
+1241,cathedral-city,United States,North America
+1242,riyadh,Saudi Arabia,Middle East
+1243,palm-desert,United States,North America
+1244,zaria,Nigeria,Africa
+1245,charlotte-amalie,United States Virgin Islands,Latin America
+1246,liberia,Costa Rica,Latin America
+1247,sariwon,North Korea,Asia
+1248,constantine,Algeria,Africa
+1249,ko-samui,Thailand,Asia
+1250,cabarete,Dominican Republic,Latin America
+1251,yichang,China,Asia
+1252,anyang,China,Asia
+1253,interlaken,Switzerland,Europe
+1254,beersheba,Israel,Middle East
+1255,sargodha,Pakistan,Asia
+1256,daejeon,South Korea,Asia
+1257,st-gallen,Switzerland,Europe
+1258,rawalpindi,Pakistan,Asia
+1259,san-pedro,Belize,Latin America
+1260,nampo,North Korea,Asia
+1261,dakar,Senegal,Africa
+1262,peshawar,Pakistan,Asia
+1263,xiangtan,China,Asia
+1264,haifa,Israel,Middle East
+1265,tangshan,China,Asia
+1266,bahawalpur,Pakistan,Asia
+1267,mykonos,Greece,Europe
+1268,kenosha,United States,North America
+1269,kabul,Afghanistan,Asia
+1270,zibo,China,Asia
+1271,managua,Nicaragua,Latin America
+1272,leon,Nicaragua,Latin America
+1273,handan,China,Asia
+1274,king-edward-point,South Georgia and the South Sandwich Islands,Latin America
+1275,islamabad,Pakistan,Asia
+1276,santa-teresa,Costa Rica,Latin America
+1277,ashgabat,Turkmenistan,Asia
+1278,tamarindo,Costa Rica,Latin America
+1279,faisalabad,Pakistan,Asia
+1280,multan,Pakistan,Asia
+1281,benghazi,Libya,Africa
+1282,tegucigalpa,Honduras,Latin America
+1283,gujranwala,Pakistan,Asia
+1284,ko-tao,Thailand,Asia
+1285,bellevue,United States,North America
+1286,vatican-city,Vatican City,Europe
+1287,basra,Iraq,Middle East
+1288,yantai,China,Asia
+1289,sialkot,Pakistan,Asia
+1290,cayenne,French Guiana,Latin America
+1291,martinique,Martinique,Latin America
+1292,san-pedro-sula,Honduras,Latin America
+1293,kralendijk,Bonaire,Latin America
+1294,port-moresby,Papua New Guinea,Oceania
+1295,copan,Honduras,Latin America
+1296,ajaccio,France,Europe
+1297,ahvaz,Iran,Middle East
+1298,khartoum,Sudan,Africa
+1299,kuwait-city,Kuwait,Middle East
+1300,hamamatsu,Japan,Asia
+1301,damascus,Syria,Middle East
+1302,djibouti,Djibouti,Africa
+1303,changsha,China,Asia
+1304,bangui,Central African Republic,Africa
+1305,bay-islands,Honduras,Latin America
+1306,yangzhou,China,Asia
+1307,jeddah,Saudi Arabia,Middle East
+1308,mecca,Saudi Arabia,Middle East
+1309,monrovia,Liberia,Africa
+1310,noumea,New Caledonia,Oceania
+1311,tabarana-do-norte,Brazil,Latin America
+1312,ndjamena,Chad,Africa
+1313,kyiv,Ukraine,Europe
+1314,moscow,Russia,Europe
+1315,lviv,Ukraine,Europe
+1316,minsk,Belarus,Europe
+1317,odessa,Ukraine,Europe
+1318,ivano-frankivsk,Ukraine,Europe
+1319,saint-petersburg,Russia,Europe
+1320,ufa,Russia,Europe
+1321,kharkiv,Ukraine,Europe
+1322,krasnodar,Russia,Europe
+1323,krasnoyarsk,Russia,Asia
+1324,dnipro,Ukraine,Europe
+1325,krivoy-rog,Ukraine,Europe
+1326,izhevsk,Russia,Europe
+1327,chelyabinsk,Russia,Europe
+1328,saratov,Russia,Europe
+1329,omsk,Russia,Asia
+1330,yekaterinburg,Russia,Europe
+1331,kaliningrad,Russia,Europe
+1332,ulyanovsk,Russia,Europe
+1333,obninsk,Russia,Europe
+1334,rostov-on-don,Russia,Europe
+1335,samara,Russia,Europe
+1336,novosibirsk,Russia,Asia
+1337,tomsk,Russia,Asia
+1338,vladivostok,Russia,Asia
+1339,kazan,Russia,Europe
+1340,nizhny,Russia,Europe
