@@ -1,0 +1,2053 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20221.22.0324.2209                               -->
+<workbook original-version='18.1' source-build='2022.1.0 (20221.22.0324.2209)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <MapboxVectorStylesAndLayers />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='Sheet1 (7_final_info)' inline='true' name='federated.03q5glc12z9qqw15zzlhw1v6gfb2' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='7_final_info' name='excel-direct.1m3s4fl1o32ql715iwt4113hz1g0'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/patri/Escritorio/Ironhack/Final-proyect_Digital-Nomad/7_final_info.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1m3s4fl1o32ql715iwt4113hz1g0' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:AC1342:no:A1:AC1342:0' header='yes' outcome='6'>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='City' ordinal='1' />
+            <column datatype='real' name='⭐️ Total score' ordinal='2' />
+            <column datatype='string' name='👍 Quality of life score' ordinal='3' />
+            <column datatype='string' name='👶 Family score' ordinal='4' />
+            <column datatype='string' name='💵 Cost' ordinal='5' />
+            <column datatype='string' name='📡 Internet' ordinal='6' />
+            <column datatype='string' name='😝 Fun' ordinal='7' />
+            <column datatype='string' name='👌 Safety' ordinal='8' />
+            <column datatype='string' name='👮‍♀️ Lack of crime' ordinal='9' />
+            <column datatype='string' name='🤝 Lack of racism' ordinal='10' />
+            <column datatype='string' name='🎓 Education level' ordinal='11' />
+            <column datatype='string' name='💰 Income level' ordinal='12' />
+            <column datatype='string' name='🙊 English speaking' ordinal='13' />
+            <column datatype='string' name='🚶 Walkability' ordinal='14' />
+            <column datatype='string' name='🚦 Traffic safety' ordinal='15' />
+            <column datatype='string' name='😄 Happiness' ordinal='16' />
+            <column datatype='string' name='🍸 Nightlife' ordinal='17' />
+            <column datatype='string' name='📶 Free WiFi in city' ordinal='18' />
+            <column datatype='string' name='❄️ A/C or heating' ordinal='19' />
+            <column datatype='string' name='😁 Friendly to foreigners' ordinal='20' />
+            <column datatype='string' name='🗯 Freedom of speech' ordinal='21' />
+            <column datatype='string' name='👩 Female friendly' ordinal='22' />
+            <column datatype='string' name='🌈 LGBTQ+ friendly' ordinal='23' />
+            <column datatype='string' name='🎅 Startup Score' ordinal='24' />
+            <column datatype='string' name='🏥 Hospitals' ordinal='25' />
+            <column datatype='string' name='Country' ordinal='26' />
+            <column datatype='string' name='Continent' ordinal='27' />
+            <column datatype='string' name='Ciudad_Country' ordinal='28' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.1m3s4fl1o32ql715iwt4113hz1g0' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:AC1342:no:A1:AC1342:0' header='yes' outcome='6'>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='string' name='City' ordinal='1' />
+            <column datatype='real' name='⭐️ Total score' ordinal='2' />
+            <column datatype='string' name='👍 Quality of life score' ordinal='3' />
+            <column datatype='string' name='👶 Family score' ordinal='4' />
+            <column datatype='string' name='💵 Cost' ordinal='5' />
+            <column datatype='string' name='📡 Internet' ordinal='6' />
+            <column datatype='string' name='😝 Fun' ordinal='7' />
+            <column datatype='string' name='👌 Safety' ordinal='8' />
+            <column datatype='string' name='👮‍♀️ Lack of crime' ordinal='9' />
+            <column datatype='string' name='🤝 Lack of racism' ordinal='10' />
+            <column datatype='string' name='🎓 Education level' ordinal='11' />
+            <column datatype='string' name='💰 Income level' ordinal='12' />
+            <column datatype='string' name='🙊 English speaking' ordinal='13' />
+            <column datatype='string' name='🚶 Walkability' ordinal='14' />
+            <column datatype='string' name='🚦 Traffic safety' ordinal='15' />
+            <column datatype='string' name='😄 Happiness' ordinal='16' />
+            <column datatype='string' name='🍸 Nightlife' ordinal='17' />
+            <column datatype='string' name='📶 Free WiFi in city' ordinal='18' />
+            <column datatype='string' name='❄️ A/C or heating' ordinal='19' />
+            <column datatype='string' name='😁 Friendly to foreigners' ordinal='20' />
+            <column datatype='string' name='🗯 Freedom of speech' ordinal='21' />
+            <column datatype='string' name='👩 Female friendly' ordinal='22' />
+            <column datatype='string' name='🌈 LGBTQ+ friendly' ordinal='23' />
+            <column datatype='string' name='🎅 Startup Score' ordinal='24' />
+            <column datatype='string' name='🏥 Hospitals' ordinal='25' />
+            <column datatype='string' name='Country' ordinal='26' />
+            <column datatype='string' name='Continent' ordinal='27' />
+            <column datatype='string' name='Ciudad_Country' ordinal='28' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:AC1342:no:A1:AC1342:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>6</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>City</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[City]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>City</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>⭐️ Total score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[⭐️ Total score]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>⭐️ Total score</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;R8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>👍 Quality of life score</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[👍 Quality of life score]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>👍 Quality of life score</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>👶 Family score</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[👶 Family score]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>👶 Family score</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>💵 Cost</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[💵 Cost]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>💵 Cost</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>📡 Internet</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[📡 Internet]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>📡 Internet</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>😝 Fun</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[😝 Fun]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>😝 Fun</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>👌 Safety</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[👌 Safety]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>👌 Safety</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>👮‍♀️ Lack of crime</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[👮‍♀️ Lack of crime]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>👮‍♀️ Lack of crime</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🤝 Lack of racism</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🤝 Lack of racism]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🤝 Lack of racism</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🎓 Education level</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🎓 Education level]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🎓 Education level</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>💰 Income level</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[💰 Income level]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>💰 Income level</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🙊 English speaking</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🙊 English speaking]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🙊 English speaking</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🚶 Walkability</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🚶 Walkability]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🚶 Walkability</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🚦 Traffic safety</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🚦 Traffic safety]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🚦 Traffic safety</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>😄 Happiness</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[😄 Happiness]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>😄 Happiness</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🍸 Nightlife</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🍸 Nightlife]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🍸 Nightlife</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>📶 Free WiFi in city</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[📶 Free WiFi in city]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>📶 Free WiFi in city</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>❄️ A/C or heating</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[❄️ A/C or heating]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>❄️ A/C or heating</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>😁 Friendly to foreigners</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[😁 Friendly to foreigners]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>😁 Friendly to foreigners</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🗯 Freedom of speech</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🗯 Freedom of speech]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🗯 Freedom of speech</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>👩 Female friendly</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[👩 Female friendly]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>👩 Female friendly</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🌈 LGBTQ+ friendly</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🌈 LGBTQ+ friendly]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🌈 LGBTQ+ friendly</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🎅 Startup Score</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🎅 Startup Score]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🎅 Startup Score</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>🏥 Hospitals</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[🏥 Hospitals]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>🏥 Hospitals</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Country]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Country</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Continent</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Continent]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Continent</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ciudad_Country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Ciudad_Country]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Ciudad_Country</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LES_RES_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_95063DA62ACF4F63880007D1C97B53C5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[City]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Ciudad Country' datatype='string' name='[Ciudad_Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_95063DA62ACF4F63880007D1C97B53C5]' role='measure' type='quantitative' />
+      <column datatype='string' name='[📶 Free WiFi in city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;España&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet1' id='Sheet1_95063DA62ACF4F63880007D1C97B53C5'>
+            <properties context=''>
+              <relation connection='excel-direct.1m3s4fl1o32ql715iwt4113hz1g0' name='Sheet1' table='[Sheet1$]' type='table'>
+                <columns gridOrigin='A1:AC1342:no:A1:AC1342:0' header='yes' outcome='6'>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='string' name='City' ordinal='1' />
+                  <column datatype='real' name='⭐️ Total score' ordinal='2' />
+                  <column datatype='string' name='👍 Quality of life score' ordinal='3' />
+                  <column datatype='string' name='👶 Family score' ordinal='4' />
+                  <column datatype='string' name='💵 Cost' ordinal='5' />
+                  <column datatype='string' name='📡 Internet' ordinal='6' />
+                  <column datatype='string' name='😝 Fun' ordinal='7' />
+                  <column datatype='string' name='👌 Safety' ordinal='8' />
+                  <column datatype='string' name='👮‍♀️ Lack of crime' ordinal='9' />
+                  <column datatype='string' name='🤝 Lack of racism' ordinal='10' />
+                  <column datatype='string' name='🎓 Education level' ordinal='11' />
+                  <column datatype='string' name='💰 Income level' ordinal='12' />
+                  <column datatype='string' name='🙊 English speaking' ordinal='13' />
+                  <column datatype='string' name='🚶 Walkability' ordinal='14' />
+                  <column datatype='string' name='🚦 Traffic safety' ordinal='15' />
+                  <column datatype='string' name='😄 Happiness' ordinal='16' />
+                  <column datatype='string' name='🍸 Nightlife' ordinal='17' />
+                  <column datatype='string' name='📶 Free WiFi in city' ordinal='18' />
+                  <column datatype='string' name='❄️ A/C or heating' ordinal='19' />
+                  <column datatype='string' name='😁 Friendly to foreigners' ordinal='20' />
+                  <column datatype='string' name='🗯 Freedom of speech' ordinal='21' />
+                  <column datatype='string' name='👩 Female friendly' ordinal='22' />
+                  <column datatype='string' name='🌈 LGBTQ+ friendly' ordinal='23' />
+                  <column datatype='string' name='🎅 Startup Score' ordinal='24' />
+                  <column datatype='string' name='🏥 Hospitals' ordinal='25' />
+                  <column datatype='string' name='Country' ordinal='26' />
+                  <column datatype='string' name='Continent' ordinal='27' />
+                  <column datatype='string' name='Ciudad_Country' ordinal='28' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='general_info+ (Digital_Nomad)' inline='true' name='federated.1nv6a3z0e51o64133x2mk0jjkrx4' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='127.0.0.1' name='mysql.0o74tx70vfz2wv12s867u0logr7z'>
+            <connection class='mysql' dbname='Digital_Nomad' odbc-native-protocol='' one-time-sql='' port='3306' server='127.0.0.1' source-charset='' username='root' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='mysql.0o74tx70vfz2wv12s867u0logr7z' name='general_info' table='[general_info]' type='table' />
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation type='collection'>
+          <relation connection='mysql.0o74tx70vfz2wv12s867u0logr7z' name='general_info' table='[general_info]' type='table' />
+          <relation connection='mysql.0o74tx70vfz2wv12s867u0logr7z' name='remote_worker' table='[remote_worker]' type='table' />
+          <relation connection='mysql.0o74tx70vfz2wv12s867u0logr7z' name='weather' table='[weather]' type='table' />
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[A/C or heating]' value='[general_info].[A/C or heating]' />
+          <map key='[Air_quality]' value='[weather].[Air_quality]' />
+          <map key='[City (remote_worker)]' value='[remote_worker].[City]' />
+          <map key='[City (weather)]' value='[weather].[City]' />
+          <map key='[City]' value='[general_info].[City]' />
+          <map key='[City_Month]' value='[weather].[City_Month]' />
+          <map key='[Ciudad_Country]' value='[general_info].[Ciudad_Country]' />
+          <map key='[Cloud]' value='[weather].[Cloud]' />
+          <map key='[Continent]' value='[general_info].[Continent]' />
+          <map key='[Cost]' value='[general_info].[Cost]' />
+          <map key='[Country]' value='[general_info].[Country]' />
+          <map key='[Education level]' value='[general_info].[Education level]' />
+          <map key='[English speaking]' value='[general_info].[English speaking]' />
+          <map key='[Family score]' value='[general_info].[Family score]' />
+          <map key='[Feel]' value='[weather].[Feel]' />
+          <map key='[Female friendly]' value='[general_info].[Female friendly]' />
+          <map key='[Free WiFi in city]' value='[general_info].[Free WiFi in city]' />
+          <map key='[Freedom of speech]' value='[general_info].[Freedom of speech]' />
+          <map key='[Friendly to foreigners]' value='[general_info].[Friendly to foreigners]' />
+          <map key='[Fun]' value='[general_info].[Fun]' />
+          <map key='[Happiness]' value='[general_info].[Happiness]' />
+          <map key='[Hospitals]' value='[general_info].[Hospitals]' />
+          <map key='[Humidity]' value='[weather].[Humidity]' />
+          <map key='[Income level]' value='[general_info].[Income level]' />
+          <map key='[Internet]' value='[general_info].[Internet]' />
+          <map key='[LGBTQ+ friendly]' value='[general_info].[LGBTQ+ friendly]' />
+          <map key='[Lack of crime]' value='[general_info].[Lack of crime]' />
+          <map key='[Lack of racism]' value='[general_info].[Lack of racism]' />
+          <map key='[Latitude]' value='[general_info].[Latitude]' />
+          <map key='[Longitude]' value='[general_info].[Longitude]' />
+          <map key='[Month]' value='[weather].[Month]' />
+          <map key='[Nightlife]' value='[general_info].[Nightlife]' />
+          <map key='[Quality of life score]' value='[general_info].[Quality of life score]' />
+          <map key='[Rain]' value='[weather].[Rain]' />
+          <map key='[Real]' value='[weather].[Real]' />
+          <map key='[Remote_workers (weather)]' value='[weather].[Remote_workers]' />
+          <map key='[Remote_workers]' value='[remote_worker].[Remote_workers]' />
+          <map key='[Safety]' value='[general_info].[Safety]' />
+          <map key='[Season]' value='[weather].[Season]' />
+          <map key='[Startup Score]' value='[general_info].[Startup Score]' />
+          <map key='[Total score]' value='[general_info].[Total score]' />
+          <map key='[Traffic safety]' value='[general_info].[Traffic safety]' />
+          <map key='[Unnamed: 0]' value='[general_info].[Unnamed: 0]' />
+          <map key='[Walkability]' value='[general_info].[Walkability]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='column'>
+            <remote-name>Unnamed: 0</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Unnamed: 0]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Unnamed: 0</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>City</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[City]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>City</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Total score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Total score]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Total score</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Quality of life score</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Quality of life score]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Quality of life score</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Family score</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Family score]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Family score</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Cost</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Cost]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Cost</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Internet</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Internet]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Internet</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Fun</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Fun]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Fun</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Safety</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Safety]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Safety</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lack of crime</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Lack of crime]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Lack of crime</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lack of racism</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Lack of racism]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Lack of racism</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Education level</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Education level]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Education level</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Income level</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Income level]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Income level</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>English speaking</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[English speaking]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>English speaking</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Walkability</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Walkability]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Walkability</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Traffic safety</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Traffic safety]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Traffic safety</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Happiness</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Happiness]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Happiness</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nightlife</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Nightlife]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Nightlife</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Free WiFi in city</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Free WiFi in city]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Free WiFi in city</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>A/C or heating</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[A/C or heating]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>A/C or heating</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Friendly to foreigners</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Friendly to foreigners]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Friendly to foreigners</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Freedom of speech</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Freedom of speech]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Freedom of speech</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Female friendly</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Female friendly]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Female friendly</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>LGBTQ+ friendly</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[LGBTQ+ friendly]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>LGBTQ+ friendly</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Startup Score</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Startup Score]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Startup Score</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Hospitals</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Hospitals]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Hospitals</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Country]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Country</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Continent</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Continent]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Continent</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ciudad_Country</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Ciudad_Country]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Ciudad_Country</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Latitude</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Latitude]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Latitude</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Longitude</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Longitude]</local-name>
+            <parent-name>[general_info]</parent-name>
+            <remote-alias>Longitude</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>15</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>City</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[City (remote_worker)]</local-name>
+            <parent-name>[remote_worker]</parent-name>
+            <remote-alias>City</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation flag='0' name='LROOT' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[remote_worker_9D851687D6274F5DB73AFF1DB1E904DF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Remote_workers</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Remote_workers]</local-name>
+            <parent-name>[remote_worker]</parent-name>
+            <remote-alias>Remote_workers</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>19</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_BIGINT&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SBIGINT&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[remote_worker_9D851687D6274F5DB73AFF1DB1E904DF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>City_Month</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[City_Month]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>City_Month</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>City</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[City (weather)]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>City</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Month</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Month]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Month</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Feel</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Feel]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Feel</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Real</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Real]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Real</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Humidity</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Humidity]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Humidity</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rain</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Rain]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Rain</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Cloud</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Cloud]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Cloud</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Air_quality</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Air_quality]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Air_quality</remote-alias>
+            <ordinal>44</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Season</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Season]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Season</remote-alias>
+            <ordinal>45</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <width>16383</width>
+            <contains-null>true</contains-null>
+            <cast-to-local-type>true</cast-to-local-type>
+            <collation charset='296' flag='3' name='LROOT_S1' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Remote_workers</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[Remote_workers (weather)]</local-name>
+            <parent-name>[weather]</parent-name>
+            <remote-alias>Remote_workers</remote-alias>
+            <ordinal>46</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[weather_E3B3CB8295D34221B4B22E9532E7CDFC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Air quality' datatype='string' name='[Air_quality]' role='dimension' type='nominal' />
+      <column caption='City (remote worker)' datatype='string' name='[City (remote_worker)]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column datatype='string' name='[City (weather)]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column datatype='string' name='[City]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='City Month' datatype='string' name='[City_Month]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Ciudad Country' datatype='string' name='[Ciudad_Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='string' name='[Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column datatype='string' name='[Free WiFi in city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column aggregation='Avg' datatype='real' name='[Latitude]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative' />
+      <column aggregation='Avg' datatype='real' name='[Longitude]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative' />
+      <column caption='Remote workers (weather)' datatype='integer' name='[Remote_workers (weather)]' role='measure' type='quantitative' />
+      <column caption='Remote workers' datatype='integer' name='[Remote_workers]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='general_info' datatype='table' name='[__tableau_internal_object_id__].[general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='remote_worker' datatype='table' name='[__tableau_internal_object_id__].[remote_worker_9D851687D6274F5DB73AFF1DB1E904DF]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='weather' datatype='table' name='[__tableau_internal_object_id__].[weather_E3B3CB8295D34221B4B22E9532E7CDFC]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[City].[Name]' value='%null%' />
+        <semantic-value key='[Country].[Name]' value='&quot;España&quot;' />
+        <semantic-value key='[State].[Name]' value='%null%' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='general_info' id='general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0'>
+            <properties context=''>
+              <relation connection='mysql.0o74tx70vfz2wv12s867u0logr7z' name='general_info' table='[general_info]' type='table' />
+            </properties>
+          </object>
+          <object caption='remote_worker' id='remote_worker_9D851687D6274F5DB73AFF1DB1E904DF'>
+            <properties context=''>
+              <relation connection='mysql.0o74tx70vfz2wv12s867u0logr7z' name='remote_worker' table='[remote_worker]' type='table' />
+            </properties>
+          </object>
+          <object caption='weather' id='weather_E3B3CB8295D34221B4B22E9532E7CDFC'>
+            <properties context=''>
+              <relation connection='mysql.0o74tx70vfz2wv12s867u0logr7z' name='weather' table='[weather]' type='table' />
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[City]' />
+              <expression op='[City (remote_worker)]' />
+            </expression>
+            <first-end-point object-id='general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0' />
+            <second-end-point object-id='remote_worker_9D851687D6274F5DB73AFF1DB1E904DF' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[City]' />
+              <expression op='[City (weather)]' />
+            </expression>
+            <first-end-point object-id='general_info_6E3DD0E8C134440EADCD9E40A4EF6AF0' />
+            <second-end-point object-id='weather_E3B3CB8295D34221B4B22E9532E7CDFC' />
+          </relationship>
+        </relationships>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Hoja 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='general_info+ (Digital_Nomad)' name='federated.1nv6a3z0e51o64133x2mk0jjkrx4' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.1nv6a3z0e51o64133x2mk0jjkrx4'>
+            <column caption='Ciudad Country' datatype='string' name='[Ciudad_Country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column datatype='string' name='[Cost]' role='dimension' type='nominal' />
+            <column datatype='string' name='[English speaking]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Feel]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Freedom of speech]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Humidity]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Lack of crime]' role='dimension' type='nominal' />
+            <column aggregation='Avg' datatype='real' name='[Latitude]' role='measure' semantic-role='[Geographical].[Latitude]' type='quantitative' />
+            <column aggregation='Avg' datatype='real' name='[Longitude]' role='measure' semantic-role='[Geographical].[Longitude]' type='quantitative' />
+            <column datatype='string' name='[Nightlife]' role='dimension' type='nominal' />
+            <column caption='Remote workers' datatype='integer' name='[Remote_workers]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Safety]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Season]' role='dimension' type='nominal' />
+            <column datatype='real' name='[Total score]' role='measure' type='quantitative' />
+            <column-instance column='[Latitude]' derivation='Avg' name='[avg:Latitude:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Longitude]' derivation='Avg' name='[avg:Longitude:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Ciudad_Country]' derivation='None' name='[none:Ciudad_Country:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Cost]' derivation='None' name='[none:Cost:nk]' pivot='key' type='nominal' />
+            <column-instance column='[English speaking]' derivation='None' name='[none:English speaking:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Feel]' derivation='None' name='[none:Feel:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Freedom of speech]' derivation='None' name='[none:Freedom of speech:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Humidity]' derivation='None' name='[none:Humidity:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Lack of crime]' derivation='None' name='[none:Lack of crime:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Nightlife]' derivation='None' name='[none:Nightlife:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Safety]' derivation='None' name='[none:Safety:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Season]' derivation='None' name='[none:Season:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Remote_workers]' derivation='Sum' name='[sum:Remote_workers:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Total score]' derivation='Sum' name='[sum:Total score:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Cost:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Cost:nk]' member='&quot;Affordable&quot;' />
+              <groupfilter function='member' level='[none:Cost:nk]' member='&quot;Okay&quot;' />
+              <groupfilter function='member' level='[none:Cost:nk]' member='&quot;Pricey&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:English speaking:nk]'>
+            <groupfilter from='&quot;Good&quot;' function='range' level='[none:English speaking:nk]' to='&quot;Okay&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Feel:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Feel:nk]' member='&quot;Cool&quot;' />
+              <groupfilter function='member' level='[none:Feel:nk]' member='&quot;Warm&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Freedom of speech:nk]'>
+            <groupfilter from='&quot;Good&quot;' function='range' level='[none:Freedom of speech:nk]' to='&quot;Okay&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Humidity:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Humidity:nk]' member='&quot;Nice&quot;' />
+              <groupfilter function='member' level='[none:Humidity:nk]' member='&quot;Sweaty&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Lack of crime:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Lack of crime:nk]' member='&quot;Good&quot;' />
+              <groupfilter function='member' level='[none:Lack of crime:nk]' member='&quot;Great&quot;' />
+              <groupfilter function='member' level='[none:Lack of crime:nk]' member='&quot;Okay&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Nightlife:nk]'>
+            <groupfilter from='&quot;Good&quot;' function='range' level='[none:Nightlife:nk]' to='&quot;Okay&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Safety:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Safety:nk]' member='&quot;Good&quot;' />
+              <groupfilter function='member' level='[none:Safety:nk]' member='&quot;Great&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Season:nk]'>
+            <groupfilter function='member' level='[none:Season:nk]' member='&quot;May-Oct&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Lack of crime:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Nightlife:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Safety:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Freedom of speech:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Cost:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:English speaking:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Season:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Feel:nk]</column>
+            <column>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Humidity:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[avg:Longitude:qk]' field-type='quantitative' max='23894061.156411543' min='-22930496.418756343' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[avg:Latitude:qk]' field-type='quantitative' max='16257985.247538896' min='-11868441.77747561' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[sum:Remote_workers:qk]' />
+              <text column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[sum:Total score:qk]' />
+              <lod column='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Ciudad_Country:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[avg:Latitude:qk]</rows>
+        <cols>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[avg:Longitude:qk]</cols>
+      </table>
+      <simple-id uuid='{8C46D662-5D3A-4485-A748-78F2A4A23FF1}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='63'>
+    <window class='worksheet' maximized='true' name='Hoja 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='174'>
+            <card pane-specification-id='0' param='[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[sum:Remote_workers:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:City:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Ciudad_Country:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Continent:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:English speaking:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Feel:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Freedom of speech:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Humidity:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Lack of crime:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Nightlife:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Safety:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[none:Season:nk]</field>
+            <field>[federated.1nv6a3z0e51o64133x2mk0jjkrx4].[sum:Remote_workers:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{8F438688-AED9-42F0-85D7-22797322FEF9}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Hoja 1' width='192'>
+      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
+      RU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>

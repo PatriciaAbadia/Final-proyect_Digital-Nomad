@@ -1,0 +1,1338 @@
+,City,Remote_workers
+0,A Coruna,200
+1,Aachen,260
+2,Aalborg,208
+3,Aarhus,247
+4,Abbotsford,17
+5,Aberdeen,200
+6,Abidjan,33
+7,Abilene,33
+8,Abu Dhabi,331
+9,Abuja,83
+10,Accra,220
+11,Adana,50
+12,Addis Ababa,261
+13,Adelaide,271
+14,Agadir,192
+15,Agra,277
+16,Aguascalientes,100
+17,Ahmedabad,185
+18,Ahvaz,17
+19,Ajaccio,125
+20,Alanya,358
+21,Albany,0
+22,Albuquerque,256
+23,Aleppo,50
+24,Alesund,189
+25,Alexandria,200
+26,Algiers,83
+27,Alicante,384
+28,Aligarh,0
+29,Allahabad,17
+30,Allentown,33
+31,Almaty,291
+32,Almere,175
+33,Amalfi,187
+34,Amarillo,67
+35,Amed,106
+36,Amman,374
+37,Amritsar,150
+38,Amsterdam,2570
+40,Anapolis,17
+41,Anchorage,231
+42,Anderson,0
+43,Andorra La Vella,262
+44,Ankara,261
+45,Ann Arbor,219
+46,Annecy,193
+47,Anshan,0
+48,Antalya,644
+49,Antananarivo,167
+50,Antigua,421
+51,Antofagasta,208
+52,Antwerp,362
+53,Anyang,0
+54,Ao Nang,318
+55,Apia,17
+56,Apple Valley,0
+57,Appleton,33
+58,Arendal,202
+59,Arequipa,300
+60,Arnhem,150
+61,Arugam Bay,67
+62,Asansol,0
+63,Asheville,287
+64,Ashgabat,67
+65,Ashland,50
+66,Asmara,0
+67,Astana,240
+68,Asuncion,281
+69,Athens,1290
+70,Atlanta,586
+71,Auburn,0
+72,Auckland,572
+73,Augusta,33
+74,Aurangabad,50
+75,Aurora,0
+76,Austin,1114
+77,Avarua,117
+78,Aveiro,176
+79,Avellino,0
+80,Avignon,229
+81,Azores,294
+82,Baghdad,67
+83,Baguio,125
+84,Bahawalpur,33
+85,Bakersfield,50
+86,Baku,311
+87,Baltimore,299
+88,Bamako,33
+89,Bandar Seri Begawan,150
+90,Bandung,262
+91,Banff,253
+92,Bangkok,3556
+93,Bangui,0
+94,Banja Luka,138
+95,Banjul,83
+96,Bansko,598
+97,Baoding,0
+98,Baotou,0
+99,Bar,180
+100,Barcelona,2577
+101,Bareilly,50
+102,Bari,246
+103,Barranquilla,201
+104,Barrie,50
+105,Basel,367
+106,Basra,33
+107,Basse Terre,117
+108,Bath,241
+109,Baton Rouge,167
+110,Battle Creek,0
+111,Batumi,474
+112,Bay Islands,150
+113,Beacon,83
+114,Beaumont,0
+115,Beaverton,0
+116,Bedford,0
+117,Beersheba,17
+118,Beijing,507
+119,Beirut,285
+120,Belem,133
+121,Belfast,329
+122,Belgrade,1007
+123,Belize City,208
+124,Bellevue,17
+125,Bellingham,150
+126,Belo Horizonte,358
+127,Bend,150
+128,Bengaluru,443
+129,Benghazi,17
+130,Benin City,0
+131,Bergen,330
+132,Berlin,3032
+133,Bern,293
+134,Bethlehem,50
+135,Bhopal,33
+136,Bhubaneswar,50
+137,Biarritz,214
+138,Bielefeld,183
+139,Bilbao,418
+140,Billings,0
+141,Birmingham,376
+142,Birmingham Al,328
+143,Bishkek,224
+144,Bismarck,33
+145,Bloomington,83
+146,Bloomington Il,0
+147,Bocas Del Toro,384
+148,Bodrum,256
+149,Bogota,826
+150,Boise,267
+151,Bologna,334
+152,Bonita Springs,17
+153,Boracay,248
+154,Bordeaux,442
+155,Bossier City,0
+156,Boston,971
+157,Boulder,331
+158,Boumerdas,0
+159,Bournemouth,206
+160,Bowling Green,17
+161,Bozeman,125
+162,Bradenton,108
+163,Braga,183
+164,Brampton,0
+165,Brasilia,292
+166,Brasov,292
+167,Bratislava,535
+168,Brazzaville,17
+169,Breda,214
+170,Bremen,244
+171,Brentwood,0
+172,Bridgeport,0
+173,Bridgeton,0
+174,Bridgetown,185
+175,Brighton,395
+176,Brisbane,452
+177,Bristol,383
+178,Brno,355
+179,Brownsville,58
+180,Bruges,318
+181,Brussels,976
+182,Bryan,0
+183,Bucaramanga,78
+184,Bucharest,794
+185,Budapest,1944
+186,Budva,285
+187,Buenos Aires,1124
+188,Buffalo,192
+189,Burgas,186
+190,Burlington,17
+191,Bursa,108
+192,Busan,346
+193,Byron Bay,248
+194,Cabarete,188
+195,Cabo San Lucas,331
+196,Cagliari,172
+197,Cairns,264
+198,Cairo,417
+199,Calgary,360
+200,Cali,280
+201,Cambridge,259
+202,Campinas,175
+203,Campo Grande,83
+204,Campos Dos Goytacazes,17
+205,Canberra,149
+206,Cancun,761
+207,Canggu,2627
+208,Cannes,264
+209,Canton,33
+210,Cape Coral,133
+211,Cape Town,763
+212,Caracas,117
+213,Cardiff,273
+214,Carlsbad,83
+215,Carson City,33
+216,Cartagena,683
+217,Casa Grande,0
+218,Casablanca,339
+219,Casper,67
+220,Cathedral City,33
+221,Cavtat,150
+222,Caye Caulker,233
+223,Cayenne,75
+224,Cebu,507
+225,Cedar Rapids,33
+226,Centennial,0
+227,Chachapoyas,17
+228,Chamonix,247
+229,Champaign,33
+230,Chandigarh,104
+231,Changchun,17
+232,Changsha,83
+233,Changshu,0
+234,Changzhou,67
+235,Chania,402
+236,Charleston,270
+237,Charlotte,270
+238,Charlotte Amalie,140
+239,Chatham,0
+240,Chattanooga,244
+241,Cheltenham,238
+242,Chelyabinsk,100
+243,Chengdu,280
+244,Chennai,234
+245,Cheyenne,125
+246,Chiang Mai,2956
+247,Chiang Rai,262
+248,Chicago,1017
+249,Chico,122
+250,Chifeng,0
+251,Chisinau,304
+252,Chittagong,17
+253,Chongjin,0
+254,Chongqing,183
+255,Christchurch,327
+256,Cincinnati,255
+257,Cirebon,33
+258,Cixi,0
+259,Clarksville,0
+260,Cleveland,307
+261,Cluj,352
+262,Cochabamba,217
+263,Cody,50
+264,Coeur Dalene,50
+265,Coimbatore,83
+266,Coimbra,276
+267,College Station,67
+268,Cologne,589
+269,Colombo,436
+270,Colorado Springs,252
+271,Columbia,83
+272,Columbus,238
+273,Columbus Ga,33
+274,Conakry,50
+275,Conroe,0
+276,Constanta,228
+277,Constantine,17
+278,Conway,0
+279,Copan,83
+280,Copenhagen,1160
+281,Cordoba,338
+282,Cork,255
+283,Corpus Christi,50
+284,Corvallis,17
+285,Coventry,196
+286,Cozumel,264
+287,Craiova,67
+288,Cuenca,292
+289,Curitiba,323
+290,Cusco,637
+291,Da Lat,318
+292,Da Nang,835
+293,Daegu,175
+294,Daejeon,192
+295,Dahab,327
+296,Dakar,233
+297,Dalian,100
+298,Dallas,515
+299,Damascus,50
+300,Dammam,133
+301,Dar Es Salaam,234
+302,Darmstadt,175
+303,Darwin,192
+304,Datong,50
+305,Davao,192
+306,Davenport,0
+307,Dayton,167
+308,Daytona Beach,133
+309,Decatur,17
+310,Dededo,33
+311,Delano,0
+312,Delhi,500
+313,Denpasar,324
+314,Denver,878
+315,Des Moines,276
+316,Detroit,414
+317,Deventer,223
+318,Dhaka,192
+319,Dhanbad,0
+320,Dijon,117
+321,Dili,33
+322,Djibouti,33
+323,Dnipro,255
+324,Doha,392
+325,Dongguan,33
+326,Dongying,0
+327,Dorobo,50
+328,Dortmund,226
+329,Dothan,17
+330,Douala,50
+331,Dresden,315
+332,Dubai,1361
+333,Dublin,1076
+334,Dubrovnik,566
+335,Dubuque,17
+336,Duhok,0
+337,Duluth,100
+338,Dunedin,181
+339,Durban,230
+340,Durg,0
+341,Dushanbe,100
+342,Dusseldorf,475
+343,Eau Claire,17
+344,Edinburg,33
+345,Edinburgh,724
+346,Edmonton,275
+347,Eindhoven,332
+348,El Alto,0
+349,El Gouna,243
+350,El Jadida,33
+351,Elgin,0
+352,Elkhart,0
+353,Enid,0
+354,Enterprise,0
+355,Erbil,33
+356,Ericeira,530
+357,Erie,17
+358,Erlangen,221
+359,Espoo,33
+360,Essaouira,265
+361,Eugene,133
+362,Evansville,0
+363,Exeter,183
+364,Fairfax,33
+365,Fairfield,33
+366,Faisalabad,0
+367,Fargo,81
+368,Faro,296
+369,Fayetteville,17
+370,Ferrara,125
+371,Fes,240
+372,Flagstaff,111
+373,Flint,17
+374,Florence,648
+375,Florianopolis,593
+376,Fort Collins,247
+377,Fort Lauderdale,429
+378,Fort Mcmurray,33
+379,Fort Myers,193
+380,Fort Smith,17
+381,Fort Wayne,17
+382,Fortaleza,284
+383,Foshan,17
+384,Frankfurt,565
+385,Frederick,17
+386,Fredericton,33
+387,Freetown,144
+388,Fresno,100
+389,Fuerteventura,399
+390,Fukuoka,298
+391,Funafuti,0
+392,Fushun,0
+393,Fuzhou,50
+394,Gaborone,100
+395,Gainesville,234
+396,Galapagos Islands,253
+397,Galle,190
+398,Galveston,89
+399,Galway,254
+400,Gaziantep,33
+401,Gdansk,435
+402,General Santos,33
+403,Geneva,507
+404,Genoa,221
+405,George Town,167
+406,Georgetown,67
+407,Ghent,324
+408,Gibraltar,254
+409,Gili Air,335
+410,Giza,111
+411,Glasgow,421
+412,Goa,355
+413,Goiania,219
+414,Gold Coast,304
+415,Gori,33
+416,Gothenburg,345
+417,Gran Canaria,958
+418,Granada,396
+419,Grand Forks,17
+420,Grand Island,17
+421,Grand Junction,133
+422,Grand Rapids,211
+423,Grande Prairie,50
+424,Graz,321
+425,Great Falls,50
+426,Greeley,133
+427,Green Bay,67
+428,Greensboro,50
+429,Greenville,117
+430,Grenoble,226
+431,Groningen,272
+432,Guadalajara,537
+433,Guanajuato,277
+434,Guangzhou,394
+435,Guatemala City,278
+436,Guayaquil,290
+437,Guelph,200
+438,Guilin,183
+439,Guiyang,83
+440,Gujranwala,0
+441,Gulfport,0
+442,Gurgaon,229
+443,Guwahati,133
+444,Gwalior,17
+445,Gwangju,67
+446,Haarlem,303
+447,Hagatna,67
+448,Hagen,181
+449,Haifa,188
+450,Haikou,33
+451,Halifax,258
+452,Hama,17
+453,Hamamatsu,67
+454,Hamburg,777
+455,Hamhung,0
+456,Hamilton,181
+457,Handan,0
+458,Hangzhou,263
+459,Hannover,226
+460,Hanoi,1099
+461,Harare,67
+462,Harbin,106
+463,Harlingen,0
+464,Harrisonburg,67
+465,Hartford,167
+466,Havana,446
+467,Hefei,33
+468,Heidelberg,235
+469,Helena,33
+470,Helsinki,813
+471,Hemet,0
+472,Henderson,17
+473,Hermosillo,67
+474,Hesperia,0
+475,High Point,17
+476,Hilo,204
+477,Hiroshima,312
+478,Ho Chi Minh City,1483
+479,Hobart,201
+480,Hof,297
+481,Hohhot,33
+482,Hoi An,607
+483,Homs,0
+484,Hong Kong,1268
+485,Honiara,17
+486,Honolulu,452
+487,Hoover,0
+488,Houston,500
+489,Hua Hin,316
+490,Huaian,17
+491,Huaibei,0
+492,Huainan,0
+493,Huambo,17
+494,Hubli,0
+495,Huddersfield,67
+496,Hue,249
+497,Huizhou,0
+498,Hull,17
+499,Huntsville,67
+500,Huzhou,0
+501,Hvar,235
+502,Hyderabad,274
+503,Iasi,133
+504,Ibadan,0
+505,Ibiza,381
+506,Idaho Falls,33
+507,Incline Village,117
+508,Indianapolis,301
+509,Indio,33
+510,Indore,117
+511,Innsbruck,316
+513,Interlaken,222
+514,Iowa City,67
+515,Ipoh,164
+516,Iquique,67
+517,Isfahan,67
+518,Isla Mujeres,409
+519,Islamabad,100
+520,Istanbul,1573
+521,Itapema,50
+522,Ithaca,110
+523,Ivano Frankivsk,125
+524,Izhevsk,83
+525,Izmir,359
+526,Jabalpur,0
+527,Jackson,0
+528,Jacksonville,240
+529,Jacksonville Nc,0
+530,Jaipur,300
+531,Jakarta,582
+532,Jamestown,0
+533,Jamshedpur,17
+534,Janesville,17
+535,Jarabacoa,92
+536,Javea,284
+537,Jeddah,243
+538,Jeju Island,303
+539,Jena,17
+540,Jerusalem,311
+541,Jiamusi,0
+542,Jiangmen,0
+543,Jiaxing,0
+544,Jilin,0
+545,Jimbaran,158
+546,Jinan,100
+547,Joao Pessoa,150
+548,Jodhpur,220
+549,Johannesburg,365
+550,Johnson City,0
+551,Johor Bahru,236
+552,Joliet,17
+553,Jonesboro,0
+554,Joplin,0
+555,Juarez,133
+556,Juba,50
+557,Jundiai,0
+558,Jyvaskyla,183
+559,Kabul,150
+560,Kaduna,17
+561,Kaechon,0
+562,Kaesong,50
+563,Kagoshima,167
+564,Kaliningrad,293
+565,Kalyan,0
+566,Kamiyama,0
+567,Kampala,279
+568,Kananga,0
+569,Kandy,213
+570,Kannur,33
+571,Kano,0
+572,Kanpur,17
+573,Kansas City,428
+574,Kaohsiung,330
+575,Karachi,169
+576,Karlsruhe,335
+577,Kassel,179
+578,Kathmandu,353
+579,Katowice,240
+580,Kauai,215
+581,Kaunas,238
+582,Kazan,332
+583,Kearney,17
+584,Kelowna,204
+585,Kennewick,17
+586,Kenosha,50
+587,Key West,229
+588,Kharkiv,275
+589,Khartoum,67
+590,Khulna,33
+591,Kigali,232
+592,Killeen,0
+593,King Edward Point,17
+594,Kingsport,0
+595,Kingston,142
+596,Kinmen,0
+597,Kinshasa,50
+598,Kirkuk,0
+599,Kisangani,0
+600,Kitakyushu,33
+601,Kitchener,106
+602,Klaipeda,242
+603,Knoxville,167
+604,Ko Chang,179
+605,Ko Lanta,786
+606,Ko Lipe,171
+607,Ko Pha Ngan,808
+608,Ko Phi Phi,318
+609,Ko Samui,684
+610,Ko Tao,402
+611,Kobe,231
+612,Kochi,274
+613,Kokomo,0
+614,Kolkata,249
+615,Kollam,17
+616,Konya,75
+617,Kosice,267
+618,Kota,33
+619,Kota Kinabalu,272
+620,Kotor,454
+621,Kozhikode,100
+622,Krabi,449
+623,Krakow,857
+624,Kralendijk,183
+625,Krasnodar,296
+626,Krasnoyarsk,189
+627,Krivoy Rog,17
+628,Kuala Lumpur,1828
+629,Kuching,279
+630,Kumasi,50
+631,Kunming,236
+632,Kunshan,0
+633,Kuta,403
+634,Kuwait City,179
+635,Kyiv,1196
+636,Kyoto,756
+637,La Crosse,83
+638,La Paz,314
+639,La Plata,108
+640,La Serena,225
+641,La Union,33
+642,Laayoune,0
+643,Lafayette,161
+644,Lagos,205
+645,Lagos Algarve,459
+646,Lahore,225
+647,Lake Balaton,50
+648,Lake Charles,0
+649,Lake Como,256
+650,Lake Havasu City,17
+651,Lake Tahoe,286
+652,Lancaster,17
+653,Langkawi,344
+654,Lansing,67
+655,Lanzarote,331
+656,Lanzhou,100
+657,Laredo,33
+658,Larnaca,391
+659,Las Cruces,17
+660,Las Vegas,926
+661,Lausanne,281
+662,Lawrence,308
+663,Lawton,0
+664,Leeds,390
+665,Leeuwarden,242
+666,Leicester,156
+667,Leiden,217
+668,Leipzig,303
+669,Lelystad,0
+670,Leon,106
+671,Lethbridge,100
+672,Leuven,159
+673,Lexington,156
+674,Lianyungang,0
+675,Liberia,217
+676,Libreville,67
+677,Lille,349
+678,Lilongwe,83
+679,Lima,957
+680,Limassol,361
+681,Lincoln,117
+682,Linyi,0
+683,Lisbon,3169
+684,Little Rock,142
+685,Liuzhou,0
+686,Liverpool,319
+687,Livingstone,67
+688,Ljubljana,505
+689,Lodi,0
+690,Lodz,292
+691,Logan,17
+692,Lome,83
+693,London,3125
+694,Longview,0
+695,Los Angeles,1772
+696,Louisville,228
+697,Luanda,125
+698,Luang Prabang,320
+699,Lubbock,117
+700,Lublin,142
+701,Lubumbashi,0
+702,Lucca,175
+703,Lucknow,100
+704,Ludhiana,33
+705,Lugano,171
+706,Luoyang,33
+707,Lusaka,50
+708,Luton,142
+709,Luxembourg,302
+710,Luxor,212
+711,Lviv,550
+712,Lynchburg,33
+713,Lyon,503
+714,Macau,311
+715,Macon,17
+716,Madeira,789
+717,Madison,220
+718,Madrid,1665
+719,Madurai,125
+720,Makassar,50
+721,Makati,282
+722,Malacca,258
+723,Malaga,619
+724,Malang,100
+725,Malappuram,33
+726,Male,250
+727,Mallorca,585
+728,Malmo,348
+729,Mamaia,100
+730,Managua,246
+731,Manama,203
+732,Manaus,210
+733,Manchester,537
+734,Manchester Nh,100
+735,Mancora,158
+736,Mandalay,275
+737,Manhattan,33
+738,Manila,703
+739,Manteca,0
+740,Maputo,83
+741,Mar Del Plata,133
+742,Maracaibo,17
+743,Maracay,0
+744,Marbella,408
+745,Marrakesh,584
+746,Marseille,418
+747,Martinique,67
+748,Marysville,0
+749,Maseru,33
+750,Mashhad,0
+751,Matara,196
+752,Mataram,133
+753,Mbuji Mayi,0
+754,Mcallen,50
+755,Mcleod Ganj,200
+757,Mecca,117
+758,Medan,178
+759,Medellin,1838
+760,Medford,33
+761,Medina,133
+762,Meerut,17
+763,Melbourne,871
+764,Melbourne Fl,67
+765,Memphis,256
+766,Mendoza,248
+767,Menlo Park,133
+768,Menorca,266
+769,Merced,0
+770,Merida,524
+771,Mexicali,50
+772,Mexico City,2617
+773,Miami,1098
+774,Midland,0
+775,Milan,913
+776,Milwaukee,309
+777,Minca,128
+778,Minneapolis,428
+779,Minot,17
+780,Minsk,586
+781,Mission,0
+782,Missoula,183
+783,Mobile,50
+784,Modena,167
+785,Modesto,0
+786,Mogadishu,33
+787,Mombasa,200
+788,Monaco,308
+789,Moncton,142
+790,Monrovia,100
+791,Montanita,251
+792,Montego Bay,260
+793,Monterey,158
+794,Monterrey,332
+795,Montevideo,473
+796,Montgomery,83
+797,Montpellier,375
+798,Montreal,788
+799,Monza,33
+800,Moradabad,17
+801,Moscow,1442
+802,Mostar,304
+803,Mosul,0
+804,Mountain View,253
+805,Mui Ne,260
+806,Multan,33
+807,Mumbai,499
+808,Muncie,50
+809,Munggu,33
+810,Munich,1009
+811,Murrieta,67
+812,Muscat,275
+813,Mykonos,252
+814,Mysore,122
+815,Nagasaki,92
+816,Nago,100
+817,Nagoya,204
+818,Nagpur,17
+819,Naha,303
+820,Nairobi,344
+821,Nakhon Ratchasima,17
+822,Nampo,0
+823,Nanaimo,161
+824,Nanchang,33
+825,Nanjing,195
+826,Nanning,67
+827,Nantes,334
+828,Nantong,0
+829,Nanyang,0
+830,Napa,175
+831,Naples,476
+832,Nashik,17
+833,Nashua,0
+834,Nashville,400
+835,Nassau,255
+836,Natal,167
+837,Naypyidaw,17
+838,Ndjamena,17
+839,New Haven,208
+840,New Orleans,503
+841,New York City,2697
+842,Newcastle Upon Tyne,209
+843,Newport Beach,217
+844,Nha Trang,330
+845,Niamey,0
+846,Nice,487
+847,Nicosia,263
+848,Nijmegen,178
+849,Ningbo,50
+850,Nis,139
+851,Nizhny,125
+852,Noida,67
+853,Norfolk,164
+854,Normal,0
+855,North Little Rock,0
+856,Northampton,117
+857,Norwich,287
+858,Nottingham,284
+859,Nouakchott,50
+860,Noumea,83
+861,Novi Sad,354
+862,Novocherkassk,158
+863,Novosibirsk,288
+864,Nukualofa,33
+865,Nuremberg,262
+866,Nuuk,17
+867,Oakland,287
+868,Oaxaca,758
+869,Obninsk,0
+870,Ocala,17
+871,Oceanside,50
+872,Odessa,344
+873,Odessa Tx,17
+874,Ogden,50
+875,Okayama,117
+876,Okinawa City,133
+877,Oklahoma City,236
+878,Olympia,117
+879,Omaha,222
+880,Omsk,67
+881,Onitsha,0
+882,Oran,17
+883,Oranjestad,237
+884,Oregon City,0
+885,Orlando,571
+886,Osaka,766
+887,Oshawa,0
+888,Oshkosh,17
+889,Osijek,92
+890,Oslo,744
+891,Ottawa,345
+892,Ouagadougou,0
+893,Oulu,100
+894,Owensboro,17
+895,Oxford,264
+896,Oxnard,17
+897,Padova,239
+898,Pai,353
+899,Palawan,179
+900,Palembang,17
+901,Palermo,390
+902,Palm Bay,0
+903,Palm Coast,50
+904,Palm Desert,117
+905,Palmdale,0
+906,Palo Alto,231
+907,Pamplona,178
+908,Panajachel,298
+909,Panama City,751
+910,Paphos,525
+911,Paramaribo,100
+912,Paris,2242
+913,Park City,238
+914,Pasco,17
+915,Pasto,33
+916,Patna,67
+917,Patras,83
+918,Pattaya,394
+919,Pekanbaru,17
+920,Penang,781
+921,Pensacola,175
+922,Peoria,50
+923,Perth,384
+924,Peshawar,0
+925,Petaluma,100
+926,Pharr,0
+927,Philadelphia,432
+928,Philipsburg,168
+929,Phnom Penh,595
+930,Phoenix,418
+931,Phu Quoc,236
+932,Phuket,1241
+933,Pisa,276
+934,Pittsburgh,333
+935,Plantation,17
+936,Playa Del Carmen,1466
+937,Ploiesti,17
+938,Plovdiv,354
+939,Pocatello,0
+940,Podgorica,283
+941,Pokhara,208
+942,Port Arthur,0
+943,Port Au Prince,100
+944,Port Elizabeth,183
+945,Port Harcourt,33
+946,Port Louis,181
+947,Port Moresby,100
+948,Port Of Spain,125
+949,Port Orange,0
+950,Port Said,17
+951,Port St Lucie,17
+952,Port Vila,33
+953,Porterville,0
+954,Portimao,308
+955,Portland,756
+956,Portland Me,244
+957,Porto,1225
+958,Porto Alegre,294
+959,Portsmouth,150
+960,Poznan,348
+961,Prague,1570
+962,Praia,100
+963,Pretoria,167
+964,Princeton,133
+965,Pristina,212
+966,Providence,251
+967,Provo,133
+968,Puebla,271
+969,Pueblo,17
+970,Puerto Escondido,702
+971,Puerto Vallarta,653
+972,Puerto Viejo,384
+973,Pune,269
+974,Puning,0
+975,Punta Cana,297
+976,Punta Del Este,177
+977,Putian,0
+978,Pyongyang,150
+979,Qingdao,189
+980,Qinhuangdao,17
+981,Qiqihar,0
+982,Qom,0
+983,Quanzhou,0
+984,Quebec City,291
+985,Queenstown,342
+986,Queretaro,291
+987,Quetta,0
+988,Quito,374
+989,Rabat,290
+990,Raipur,0
+991,Rajkot,0
+992,Raleigh,334
+993,Ramallah,117
+994,Ranchi,0
+995,Rapid City,100
+996,Rawalpindi,0
+997,Reading,206
+998,Reading Pa,50
+999,Recife,328
+1000,Redding,67
+1001,Regina,67
+1002,Rennes,235
+1003,Reno,256
+1004,Rethymno,175
+1005,Reykjavik,655
+1006,Rhodes,198
+1007,Richland,33
+1008,Richmond,241
+1009,Riga,486
+1010,Rijeka,216
+1011,Rimini,296
+1012,Rio De Janeiro,826
+1013,Rishikesh,236
+1014,Riverside,50
+1015,Riyadh,249
+1016,Road Town,122
+1017,Roanoke,83
+1018,Rochester,183
+1019,Rochester Mn,50
+1020,Rockford,50
+1021,Rocky Mount,0
+1022,Rogers,0
+1023,Rome,1040
+1024,Rosario,233
+1025,Rostov On Don,221
+1026,Rotterdam,442
+1027,Rouen,271
+1028,Rovaniemi,253
+1029,Ruian,0
+1030,Rzeszow,133
+1031,Sa Pa,261
+1032,Sacramento,246
+1033,Saint Helier,67
+1034,Saint Petersburg,918
+1035,Salem,17
+1036,Salem Ma,133
+1037,Salento,217
+1038,Salt Lake City,402
+1039,Salta,243
+1040,Salvador,316
+1041,Salzburg,326
+1042,Samara,178
+1043,San Angelo,0
+1044,San Antonio,388
+1045,San Clemente,0
+1046,San Cristobal De Las Casas,313
+1047,San Diego,801
+1048,San Francisco,2385
+1049,San Ignacio,117
+1050,San Jose,414
+1051,San Juan,451
+1052,San Juan Del Sur,324
+1053,San Luis Potosi,67
+1054,San Mateo,67
+1055,San Miguel De Allende,361
+1056,San Pedro,188
+1057,San Pedro De Atacama,282
+1058,San Pedro Sula,138
+1059,San Salvador,269
+1060,San Sebastian,339
+1061,Sanaa,50
+1062,Sandpoint,33
+1063,Santa Barbara,242
+1064,Santa Cruz,167
+1065,Santa Fe,271
+1066,Santa Maria,17
+1067,Santa Marta,405
+1068,Santa Rosa,154
+1069,Santa Teresa,538
+1070,Santiago,720
+1071,Santo Domingo,280
+1072,Santorini,396
+1073,Sanur,315
+1074,Sao Jose Dos Campos,67
+1075,Sao Luis,183
+1076,Sao Paulo,1151
+1077,Sapporo,247
+1078,Sarajevo,345
+1079,Sarasota,183
+1080,Saratov,67
+1081,Sargodha,0
+1082,Sariwon,0
+1083,Saskatoon,117
+1084,Savannah,432
+1085,Sayulita,455
+1086,Schenectady,0
+1087,Scheveningen,17
+1088,Scottsdale,215
+1089,Scranton,17
+1090,Seattle,1067
+1091,Semarang,17
+1092,Seminyak,507
+1093,Sendai,83
+1094,Senggigi,150
+1095,Seoul,1076
+1096,Seville,650
+1097,Shanghai,674
+1098,Shantou,0
+1099,Shaoxing,33
+1100,Sharjah,125
+1101,Sheffield,282
+1102,Shenyang,67
+1103,Shenzhen,386
+1104,Shijiazhuang,0
+1105,Shiraz,83
+1106,Shreveport,33
+1107,Shrewsbury,369
+1108,Sialkot,0
+1109,Siargao,161
+1110,Siem Reap,706
+1111,Siena,206
+1112,Sihanoukville,276
+1113,Singapore,1985
+1114,Sinuiju,17
+1115,Sioux City,0
+1116,Sioux Falls,210
+1117,Skopje,366
+1118,Sliema,630
+1119,Sochi,350
+1120,Sofia,840
+1121,Sorocaba,67
+1122,Southampton,210
+1123,Soweto,0
+1124,Sparks,17
+1125,Split,992
+1126,Spokane,228
+1127,Spokane Valley,0
+1128,Springdale,17
+1129,Springfield,17
+1130,Srinagar,50
+1131,St Catharines,0
+1132,St Cloud,17
+1133,St Gallen,201
+1134,St George,125
+1135,St Johns,122
+1136,St Joseph,0
+1137,St Louis,316
+1138,Stamford,108
+1139,Stanley,33
+1140,Stockholm,1230
+1141,Stockton,0
+1142,Strasbourg,275
+1143,Stuttgart,406
+1144,Sulaymaniyah,0
+1145,Sumperk,17
+1146,Surabaya,139
+1147,Surakarta,67
+1148,Surat,206
+1149,Surrey,17
+1150,Suva,133
+1151,Suwon,33
+1152,Suzhou,175
+1153,Sydney,891
+1154,Syracuse,175
+1155,Szczecin,249
+1157,Tabriz,0
+1158,Taghazout,316
+1159,Taichung,274
+1160,Tainan,235
+1161,Taipei,1122
+1162,Taiyuan,17
+1163,Taizhou,0
+1164,Tallahassee,192
+1165,Tallinn,829
+1166,Tamarindo,332
+1167,Tampa,344
+1168,Tampere,286
+1169,Tanchon,0
+1170,Tangier,227
+1171,Tangshan,0
+1172,Taos,100
+1173,Tarifa,256
+1174,Tartu,200
+1175,Tashkent,211
+1176,Tbilisi,1267
+1177,Tebessa,0
+1178,Tegucigalpa,125
+1179,Tehran,158
+1180,Tel Aviv,778
+1181,Temecula,83
+1182,Temple,33
+1183,Tenerife,878
+1184,Tengzhou,0
+1185,Terre Haute,0
+1186,Texel,100
+1187,Thane,17
+1188,The Hague,327
+1189,Thessaloniki,418
+1190,Thiruvananthapuram,67
+1191,Thrissur,33
+1192,Tianjin,67
+1193,Tijuana,247
+1194,Tilburg,108
+1195,Timisoara,286
+1196,Tirana,478
+1197,Tirupur,0
+1198,Tokyo,1636
+1199,Toledo,100
+1200,Toluca,117
+1201,Tomsk,258
+1202,Topeka,50
+1203,Toronto,948
+1204,Torreon,17
+1205,Torshavn,33
+1206,Toulouse,366
+1207,Tracy,0
+1208,Trento,167
+1209,Treviso,92
+1210,Trier,175
+1211,Trieste,261
+1212,Tripoli,67
+1213,Tromso,267
+1214,Trondheim,210
+1215,Tsushima Island,17
+1216,Tucson,249
+1217,Tulare,0
+1218,Tulsa,248
+1219,Tulum,890
+1220,Tunis,230
+1221,Turin,282
+1222,Turku,150
+1223,Turlock,0
+1224,Tuscaloosa,33
+1225,Tyler,17
+1226,Ube,50
+1227,Uberlandia,139
+1228,Ubud,1575
+1229,Udon Thani,150
+1230,Ufa,213
+1231,Ulaanbaatar,237
+1232,Uluwatu,256
+1233,Ulyanovsk,225
+1234,Urumqi,133
+1235,Ushuaia,262
+1236,Utica,0
+1237,Utrecht,488
+1238,Vadodara,17
+1239,Valdosta,17
+1240,Valencia,1064
+1241,Valparaiso,316
+1242,Vancouver,865
+1243,Vang Vieng,243
+1244,Varanasi,208
+1245,Varkala,108
+1246,Varna,305
+1247,Vasai,0
+1248,Vatican City,259
+1249,Venice,602
+1250,Verdi,0
+1251,Verona,297
+1252,Victoria,295
+1253,Victoria Tx,0
+1254,Victorville,17
+1255,Vienna,1376
+1256,Vientiane,360
+1257,Vijayawada,17
+1258,Vilnius,560
+1259,Vina Del Mar,125
+1260,Vineland,0
+1261,Virginia Beach,150
+1262,Visakhapatnam,100
+1263,Visalia,92
+1264,Vista,67
+1265,Vitoria,220
+1266,Vladivostok,117
+1267,Volgograd,176
+1268,Waco,117
+1269,Wanaka,220
+1270,Warner Robins,17
+1271,Warsaw,1125
+1272,Washington,756
+1273,Waterloo,192
+1274,Waterloo Ia,75
+1275,Waukegan,0
+1276,Weifang,17
+1277,Weihai,33
+1278,Wellington,395
+1279,Wenling,0
+1280,Wenzhou,33
+1281,West Palm Beach,278
+1282,Weston,50
+1283,Whistler,245
+1284,Wichita,133
+1285,Wichita Falls,0
+1286,Willemstad,190
+1287,Wilmington,117
+1288,Windhoek,250
+1289,Windsor,117
+1290,Winnipeg,206
+1291,Winston,0
+1292,Wollongong,17
+1293,Wonsan,0
+1294,Worcester,50
+1295,Wroclaw,459
+1296,Wuhan,50
+1297,Wuhu,17
+1298,Wuxi,33
+1299,Xi An,117
+1300,Xiamen,150
+1301,Xiangtan,0
+1302,Xiangyang,0
+1303,Xining,67
+1304,Xuzhou,0
+1305,Yakima,0
+1306,Yamoussoukro,0
+1307,Yangon,350
+1308,Yangshuo,156
+1309,Yangzhou,33
+1310,Yantai,0
+1311,Yaounde,50
+1312,Yekaterinburg,228
+1313,Yerevan,484
+1314,Yichang,17
+1315,Yinchuan,0
+1316,Yiwu,83
+1317,Yogyakarta,251
+1318,Yokohama,133
+1319,York,252
+1320,Youngstown,0
+1321,Yuba City,17
+1322,Yuma,67
+1323,Zadar,359
+1324,Zagreb,746
+1325,Zandvoort,100
+1326,Zaria,0
+1327,Zhangjiagang,0
+1328,Zhangjiakou,17
+1329,Zhangzhou,17
+1330,Zhanjiang,17
+1331,Zhengzhou,67
+1332,Zhongshan,0
+1333,Zhoukou,0
+1334,Zhucheng,0
+1335,Zhuhai,144
+1336,Zhuzhou,17
+1337,Zibo,0
+1338,Zunyi,0
+1339,Zurich,917
+1340,Zwolle,150
